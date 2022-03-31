@@ -1,0 +1,3853 @@
+,city,country,continent
+0,Tokyo,Japan,Asia
+12,Osaka,Japan,Asia
+24,Yokohama,Japan,Asia
+36,Nagoya,Japan,Asia
+48,Fukuoka,Japan,Asia
+60,Sapporo,Japan,Asia
+72,Sendai,Japan,Asia
+84,Hiroshima,Japan,Asia
+96,Kyoto,Japan,Asia
+108,Kobe,Japan,Asia
+120,Kawasaki,Japan,Asia
+132,Kitakyushu,Japan,Asia
+144,Hamamatsu,Japan,Asia
+156,Naha,Japan,Asia
+168,Okayama,Japan,Asia
+180,Kumamoto,Japan,Asia
+192,Shizuoka,Japan,Asia
+204,Utsunomiya,Japan,Asia
+216,Nagano,Japan,Asia
+228,Hachioji,Japan,Asia
+240,Niigata,Japan,Asia
+252,Kagoshima,Japan,Asia
+264,Kanazawa,Japan,Asia
+276,Otsu,Japan,Asia
+288,Matsuyama,Japan,Asia
+300,Tsu,Japan,Asia
+312,Oita,Japan,Asia
+324,Tokushima,Japan,Asia
+336,Wakayama,Japan,Asia
+348,Nagasaki,Japan,Asia
+360,Gifu,Japan,Asia
+372,Iwaki,Japan,Asia
+384,Asahikawa,Japan,Asia
+396,Mito,Japan,Asia
+408,Maebashi,Japan,Asia
+420,Koriyama,Japan,Asia
+432,Kawagoe,Japan,Asia
+444,Kochi,Japan,Asia
+456,Takamatsu,Japan,Asia
+468,Toyama,Japan,Asia
+480,Miyazaki,Japan,Asia
+492,Akita,Japan,Asia
+504,Hakodate,Japan,Asia
+516,Aomori,Japan,Asia
+528,Morioka,Japan,Asia
+540,Fukushima,Japan,Asia
+552,Yamagata,Japan,Asia
+564,Fukui,Japan,Asia
+576,Shimonoseki,Japan,Asia
+588,Hachinohe,Japan,Asia
+600,Sasebo,Japan,Asia
+612,Matsumoto,Japan,Asia
+624,Kushiro,Japan,Asia
+636,Kofu,Japan,Asia
+648,Kure,Japan,Asia
+660,Nagaoka,Japan,Asia
+672,Hirosaki,Japan,Asia
+684,Tomakomai,Japan,Asia
+696,Obihiro,Japan,Asia
+708,Takaoka,Japan,Asia
+720,Matsue,Japan,Asia
+732,Muroran,Japan,Asia
+744,Tottori,Japan,Asia
+756,Otaru,Japan,Asia
+768,Kitami,Japan,Asia
+780,Sakata,Japan,Asia
+792,Tsuruoka,Japan,Asia
+804,Maizuru,Japan,Asia
+816,Kanoya,Japan,Asia
+828,New York,United States,America
+840,Los Angeles,United States,America
+852,Chicago,United States,America
+864,Miami,United States,America
+876,Dallas,United States,America
+888,Philadelphia,United States,America
+900,Houston,United States,America
+912,"Washington, D.C.",United States,America
+924,Atlanta,United States,America
+936,Boston,United States,America
+948,Phoenix,United States,America
+960,Seattle,United States,America
+972,San Francisco,United States,America
+984,Detroit,United States,America
+996,San Diego,United States,America
+1008,Minneapolis,United States,America
+1020,Tampa,United States,America
+1032,Denver,United States,America
+1044,Brooklyn,United States,America
+1056,Queens,United States,America
+1068,Baltimore,United States,America
+1080,Riverside,United States,America
+1092,Saint Louis,United States,America
+1104,Las Vegas,United States,America
+1116,Portland,United States,America
+1128,San Antonio,United States,America
+1140,Sacramento,United States,America
+1152,San Jose,United States,America
+1164,Orlando,United States,America
+1176,Cleveland,United States,America
+1188,Pittsburgh,United States,America
+1200,Cincinnati,United States,America
+1212,Manhattan,United States,America
+1224,Austin,United States,America
+1236,Kansas City,United States,America
+1248,Indianapolis,United States,America
+1260,Columbus,United States,America
+1272,Virginia Beach,United States,America
+1284,Charlotte,United States,America
+1296,Bronx,United States,America
+1308,Milwaukee,United States,America
+1320,Providence,United States,America
+1332,Jacksonville,United States,America
+1344,Salt Lake City,United States,America
+1356,Nashville,United States,America
+1368,Memphis,United States,America
+1380,Richmond,United States,America
+1392,New Orleans,United States,America
+1404,Raleigh,United States,America
+1416,Louisville,United States,America
+1428,Oklahoma City,United States,America
+1440,Bridgeport,United States,America
+1452,Buffalo,United States,America
+1464,Hartford,United States,America
+1476,Fort Worth,United States,America
+1488,Tucson,United States,America
+1500,El Paso,United States,America
+1512,Honolulu,United States,America
+1524,Omaha,United States,America
+1536,McAllen,United States,America
+1548,Albuquerque,United States,America
+1560,Birmingham,United States,America
+1572,Dayton,United States,America
+1584,Rochester,United States,America
+1596,Sarasota,United States,America
+1608,Fresno,United States,America
+1620,Allentown,United States,America
+1632,Tulsa,United States,America
+1644,Concord,United States,America
+1656,Cape Coral,United States,America
+1668,Springfield,United States,America
+1680,Colorado Springs,United States,America
+1692,Charleston,United States,America
+1704,Grand Rapids,United States,America
+1716,Mission Viejo,United States,America
+1728,Albany,United States,America
+1740,Knoxville,United States,America
+1752,Baton Rouge,United States,America
+1764,Bakersfield,United States,America
+1776,Ogden,United States,America
+1788,New Haven,United States,America
+1800,Columbia,United States,America
+1812,Akron,United States,America
+1824,Provo,United States,America
+1836,Worcester,United States,America
+1848,Mesa,United States,America
+1860,Palm Bay,United States,America
+1872,Toledo,United States,America
+1884,Murrieta,United States,America
+1896,Wichita,United States,America
+1908,Des Moines,United States,America
+1920,Staten Island,United States,America
+1932,Long Beach,United States,America
+1944,Greenville,United States,America
+1956,Little Rock,United States,America
+1968,Harrisburg,United States,America
+1980,Denton,United States,America
+1992,Madison,United States,America
+2004,Reno,United States,America
+2016,Port Saint Lucie,United States,America
+2028,Oakland,United States,America
+2040,Winston-Salem,United States,America
+2052,Indio,United States,America
+2064,Durham,United States,America
+2076,Syracuse,United States,America
+2088,Chattanooga,United States,America
+2100,Lancaster,United States,America
+2112,Spokane,United States,America
+2124,Palm Coast,United States,America
+2136,Arlington,United States,America
+2148,Bonita Springs,United States,America
+2160,Poughkeepsie,United States,America
+2172,Stockton,United States,America
+2184,Oxnard,United States,America
+2196,Augusta,United States,America
+2208,Scranton,United States,America
+2220,Boise,United States,America
+2232,Modesto,United States,America
+2244,Kissimmee,United States,America
+2256,Youngstown,United States,America
+2268,Aurora,United States,America
+2280,Anaheim,United States,America
+2304,Victorville,United States,America
+2316,Pensacola,United States,America
+2328,Fayetteville,United States,America
+2340,Corpus Christi,United States,America
+2352,Jackson,United States,America
+2364,Greensboro,United States,America
+2376,Flint,United States,America
+2388,Santa Ana,United States,America
+2400,Fort Wayne,United States,America
+2412,Ann Arbor,United States,America
+2436,Santa Rosa,United States,America
+2448,Lansing,United States,America
+2460,Mobile,United States,America
+2472,Lexington,United States,America
+2484,Huntsville,United States,America
+2496,Santa Clarita,United States,America
+2508,Asheville,United States,America
+2520,Saint Paul,United States,America
+2532,Fort Collins,United States,America
+2544,Antioch,United States,America
+2556,Henderson,United States,America
+2568,Trenton,United States,America
+2580,Lakeland,United States,America
+2592,Shreveport,United States,America
+2604,Davenport,United States,America
+2628,Plano,United States,America
+2640,Rockford,United States,America
+2652,Newark,United States,America
+2664,Lincoln,United States,America
+2676,Round Lake Beach,United States,America
+2688,South Bend,United States,America
+2700,Savannah,United States,America
+2712,Irvine,United States,America
+2724,Canton,United States,America
+2736,Jersey City,United States,America
+2748,Chula Vista,United States,America
+2760,Eugene,United States,America
+2772,Reading,United States,America
+2784,Lafayette,United States,America
+2796,Saint Petersburg,United States,America
+2808,Lubbock,United States,America
+2820,Peoria,United States,America
+2832,Myrtle Beach,United States,America
+2844,Laredo,United States,America
+2856,Salem,United States,America
+2880,Montgomery,United States,America
+2892,Chandler,United States,America
+2904,Anchorage,United States,America
+2916,Tallahassee,United States,America
+2940,Scottsdale,United States,America
+2952,Killeen,United States,America
+2964,Glendale,United States,America
+2976,Wilmington,United States,America
+2988,Winter Haven,United States,America
+3000,Norfolk,United States,America
+3012,North Las Vegas,United States,America
+3024,Gilbert,United States,America
+3036,Atlantic City,United States,America
+3048,Chesapeake,United States,America
+3060,Irving,United States,America
+3072,Hialeah,United States,America
+3084,Garland,United States,America
+3096,McKinney,United States,America
+3108,Fremont,United States,America
+3120,Visalia,United States,America
+3132,York,United States,America
+3144,Kennewick,United States,America
+3156,Evansville,United States,America
+3168,Nashua,United States,America
+3180,Brownsville,United States,America
+3192,Appleton,United States,America
+3204,Gulfport,United States,America
+3216,Thousand Oaks,United States,America
+3228,Avondale,United States,America
+3240,San Bernardino,United States,America
+3252,Bremerton,United States,America
+3264,Roanoke,United States,America
+3276,Hickory,United States,America
+3288,Kalamazoo,United States,America
+3300,Tacoma,United States,America
+3312,Fontana,United States,America
+3324,Green Bay,United States,America
+3336,College Station,United States,America
+3348,Moreno Valley,United States,America
+3360,Amarillo,United States,America
+3384,Fargo,United States,America
+3396,Santa Barbara,United States,America
+3408,Norwich,United States,America
+3432,Yonkers,United States,America
+3444,Huntington Beach,United States,America
+3468,Gainesville,United States,America
+3480,Olympia,United States,America
+3492,North Port,United States,America
+3504,Huntington,United States,America
+3516,Deltona,United States,America
+3528,Grand Prairie,United States,America
+3540,Salinas,United States,America
+3552,Waterbury,United States,America
+3564,Overland Park,United States,America
+3576,Waco,United States,America
+3588,Erie,United States,America
+3600,Cedar Rapids,United States,America
+3612,Hagerstown,United States,America
+3624,Tempe,United States,America
+3636,Spartanburg,United States,America
+3648,Clarksville,United States,America
+3660,Gastonia,United States,America
+3672,Lorain,United States,America
+3684,Sioux Falls,United States,America
+3696,Fort Lauderdale,United States,America
+3708,Newport News,United States,America
+3720,High Point,United States,America
+3732,Santa Cruz,United States,America
+3744,Rancho Cucamonga,United States,America
+3756,Frisco,United States,America
+3768,Danbury,United States,America
+3780,Hemet,United States,America
+3792,Oceanside,United States,America
+3804,Ontario,United States,America
+3816,Vancouver,United States,America
+3828,Garden Grove,United States,America
+3840,Nampa,United States,America
+3852,Vallejo,United States,America
+3864,Elk Grove,United States,America
+3876,Pembroke Pines,United States,America
+3888,Medford,United States,America
+3912,Corona,United States,America
+3924,Murfreesboro,United States,America
+3936,Marysville,United States,America
+3948,Cary,United States,America
+3960,Fredericksburg,United States,America
+3972,Ocala,United States,America
+3984,Manchester,United States,America
+3996,Hayward,United States,America
+4008,Muskegon,United States,America
+4020,Alexandria,United States,America
+4056,Port Arthur,United States,America
+4068,Palmdale,United States,America
+4080,Champaign,United States,America
+4104,Frederick,United States,America
+4116,Lakewood,United States,America
+4128,Tuscaloosa,United States,America
+4140,Sunnyvale,United States,America
+4152,Lake Charles,United States,America
+4164,Hollywood,United States,America
+4176,Pasadena,United States,America
+4188,Pomona,United States,America
+4212,Escondido,United States,America
+4224,Binghamton,United States,America
+4236,Warner Robins,United States,America
+4248,New Bedford,United States,America
+4260,Topeka,United States,America
+4272,Beaumont,United States,America
+4284,Paterson,United States,America
+4296,Joliet,United States,America
+4308,Leesburg,United States,America
+4320,Elkhart,United States,America
+4332,Odessa,United States,America
+4344,Naperville,United States,America
+4356,Fairfield,United States,America
+4368,Torrance,United States,America
+4380,Panama City,United States,America
+4392,Bellevue,United States,America
+4404,Midland,United States,America
+4416,Merced,United States,America
+4428,Mesquite,United States,America
+4440,Houma,United States,America
+4476,Pueblo,United States,America
+4488,Tyler,United States,America
+4500,Orange,United States,America
+4512,Fullerton,United States,America
+4524,Miramar,United States,America
+4536,Santa Maria,United States,America
+4548,Athens,United States,America
+4572,Yuma,United States,America
+4584,Olathe,United States,America
+4596,Thornton,United States,America
+4608,Harlingen,United States,America
+4620,Grand Junction,United States,America
+4632,West Valley City,United States,America
+4644,Carrollton,United States,America
+4656,Roseville,United States,America
+4668,Warren,United States,America
+4680,Bloomington,United States,America
+4692,Hampton,United States,America
+4704,Surprise,United States,America
+4716,Las Cruces,United States,America
+4728,Greeley,United States,America
+4740,Yakima,United States,America
+4752,Coral Springs,United States,America
+4764,Sterling Heights,United States,America
+4776,Mauldin,United States,America
+4788,Racine,United States,America
+4800,Stamford,United States,America
+4812,Elizabeth,United States,America
+4824,Kent,United States,America
+4848,Simi Valley,United States,America
+4860,Burlington,United States,America
+4872,Santa Clara,United States,America
+4884,Johnson City,United States,America
+4896,Boulder,United States,America
+4908,Bellingham,United States,America
+4920,Fort Smith,United States,America
+4932,Lynchburg,United States,America
+4944,Kenosha,United States,America
+4956,South Lyon,United States,America
+4968,Round Rock,United States,America
+4980,Berkeley,United States,America
+4992,Billings,United States,America
+5004,Redding,United States,America
+5016,Yuba City,United States,America
+5028,Duluth,United States,America
+5040,Pearland,United States,America
+5052,Leominster,United States,America
+5064,Saginaw,United States,America
+5076,Iowa City,United States,America
+5088,Arvada,United States,America
+5100,Seaside,United States,America
+5112,Kingsport,United States,America
+5124,Independence,United States,America
+5136,Richardson,United States,America
+5160,Gilroy,United States,America
+5172,El Monte,United States,America
+5184,Rock Hill,United States,America
+5196,Clearwater,United States,America
+5208,Monroe,United States,America
+5220,Dover,United States,America
+5232,Carlsbad,United States,America
+5244,Norman,United States,America
+5256,Abilene,United States,America
+5280,Texas City,United States,America
+5292,Temecula,United States,America
+5304,Utica,United States,America
+5316,Saint Cloud,United States,America
+5328,Saint George,United States,America
+5340,West Jordan,United States,America
+5352,Costa Mesa,United States,America
+5364,Miami Gardens,United States,America
+5376,Cambridge,United States,America
+5388,Downey,United States,America
+5400,Coeur d'Alene,United States,America
+5412,Westminster,United States,America
+5424,Elgin,United States,America
+5436,El Centro,United States,America
+5448,Waterloo,United States,America
+5460,Lowell,United States,America
+5472,Gresham,United States,America
+5484,North Charleston,United States,America
+5496,Inglewood,United States,America
+5508,Pompano Beach,United States,America
+5520,Centennial,United States,America
+5532,West Palm Beach,United States,America
+5544,Everett,United States,America
+5556,Santa Fe,United States,America
+5580,Clovis,United States,America
+5592,Pottstown,United States,America
+5616,Broken Arrow,United States,America
+5640,West Covina,United States,America
+5652,Turlock,United States,America
+5664,Daly City,United States,America
+5676,Eau Claire,United States,America
+5688,Hillsboro,United States,America
+5700,Sandy Springs,United States,America
+5712,Sioux City,United States,America
+5724,Chico,United States,America
+5736,Norwalk,United States,America
+5748,Salisbury,United States,America
+5760,Lewisville,United States,America
+5772,Davie,United States,America
+5784,League City,United States,America
+5796,Burbank,United States,America
+5808,San Mateo,United States,America
+5820,El Cajon,United States,America
+5832,Rialto,United States,America
+5844,Bend,United States,America
+5856,Charlottesville,United States,America
+5868,La Crosse,United States,America
+5880,Temple,United States,America
+5892,Vista,United States,America
+5904,Renton,United States,America
+5916,Sparks,United States,America
+5928,Holland,United States,America
+5940,Vacaville,United States,America
+5952,Logan,United States,America
+5964,Allen,United States,America
+5976,Longview,United States,America
+5988,Meridian,United States,America
+6000,San Angelo,United States,America
+6012,Wichita Falls,United States,America
+6024,Longmont,United States,America
+6036,Manteca,United States,America
+6048,Boca Raton,United States,America
+6060,Spokane Valley,United States,America
+6072,Orem,United States,America
+6084,Middletown,United States,America
+6096,Compton,United States,America
+6108,Idaho Falls,United States,America
+6120,Beaverton,United States,America
+6132,Bismarck,United States,America
+6144,Lawrence,United States,America
+6156,Prescott Valley,United States,America
+6168,Federal Way,United States,America
+6180,San Marcos,United States,America
+6192,Rio Rancho,United States,America
+6204,Tracy,United States,America
+6216,Brockton,United States,America
+6228,South Gate,United States,America
+6240,Hesperia,United States,America
+6252,Roswell,United States,America
+6264,Mandeville,United States,America
+6276,Vineland,United States,America
+6288,Portsmouth,United States,America
+6300,Dearborn,United States,America
+6312,Sunrise,United States,America
+6324,Quincy,United States,America
+6336,Livonia,United States,America
+6348,Lynn,United States,America
+6360,Plantation,United States,America
+6372,Slidell,United States,America
+6384,Carson,United States,America
+6396,Terre Haute,United States,America
+6408,Blacksburg,United States,America
+6432,Miami Beach,United States,America
+6444,Santa Monica,United States,America
+6468,Carmel,United States,America
+6480,Hanford,United States,America
+6504,Edmond,United States,America
+6516,Fishers,United States,America
+6540,Lawton,United States,America
+6552,Florence,United States,America
+6564,Livermore,United States,America
+6576,Lees Summit,United States,America
+6588,Menifee,United States,America
+6600,San Leandro,United States,America
+6624,Bowling Green,United States,America
+6636,Edinburg,United States,America
+6648,Suffolk,United States,America
+6660,Missoula,United States,America
+6672,Chino,United States,America
+6684,Auburn,United States,America
+6696,Fall River,United States,America
+6720,Decatur,United States,America
+6732,Newton,United States,America
+6744,Rapid City,United States,America
+6756,Muncie,United States,America
+6768,Kirkland,United States,America
+6780,Sugar Land,United States,America
+6792,State College,United States,America
+6804,Citrus Heights,United States,America
+6816,Hawthorne,United States,America
+6840,Waukegan,United States,America
+6852,O'Fallon,United States,America
+6864,Napa,United States,America
+6876,Dalton,United States,America
+6888,Whittier,United States,America
+6900,Redwood City,United States,America
+6912,Mount Pleasant,United States,America
+6924,Clifton,United States,America
+6936,Anderson,United States,America
+6948,Joplin,United States,America
+6960,Newport Beach,United States,America
+6984,Alhambra,United States,America
+6996,Hoover,United States,America
+7008,Largo,United States,America
+7020,Mission,United States,America
+7032,Conroe,United States,America
+7044,Johns Creek,United States,America
+7056,Lake Forest,United States,America
+7068,Bryan,United States,America
+7080,Port Huron,United States,America
+7092,Troy,United States,America
+7104,Madera,United States,America
+7128,Buena Park,United States,America
+7140,Pleasanton,United States,America
+7152,Cicero,United States,America
+7176,Melbourne,United States,America
+7188,Westland,United States,America
+7200,Mountain View,United States,America
+7212,Somerville,United States,America
+7224,Cranston,United States,America
+7236,Farmington Hills,United States,America
+7248,Hattiesburg,United States,America
+7272,Warwick,United States,America
+7284,Williamsburg,United States,America
+7296,Saint Joseph,United States,America
+7320,Brooklyn Park,United States,America
+7332,Deerfield Beach,United States,America
+7344,Tustin,United States,America
+7356,Alton,United States,America
+7368,Chino Hills,United States,America
+7392,Texarkana,United States,America
+7404,New Rochelle,United States,America
+7416,Fort Myers,United States,America
+7428,Goodyear,United States,America
+7440,Springdale,United States,America
+7452,Pharr,United States,America
+7464,Valdosta,United States,America
+7476,Alameda,United States,America
+7488,Parma,United States,America
+7500,New Braunfels,United States,America
+7512,Kokomo,United States,America
+7536,Cheyenne,United States,America
+7548,Flagstaff,United States,America
+7560,Plymouth,United States,America
+7572,Franklin,United States,America
+7596,Milpitas,United States,America
+7608,Folsom,United States,America
+7620,Kankakee,United States,America
+7632,Lebanon,United States,America
+7644,Perris,United States,America
+7656,Bellflower,United States,America
+7668,Boynton Beach,United States,America
+7680,Watsonville,United States,America
+7704,Elizabethtown,United States,America
+7716,Wheeling,United States,America
+7728,Upland,United States,America
+7740,Baytown,United States,America
+7752,Battle Creek,United States,America
+7764,Porterville,United States,America
+7776,Loveland,United States,America
+7788,Layton,United States,America
+7800,Flower Mound,United States,America
+7812,Hammond,United States,America
+7824,Lake Jackson,United States,America
+7836,Davis,United States,America
+7848,Zephyrhills,United States,America
+7860,Baldwin Park,United States,America
+7872,Altoona,United States,America
+7884,Gary,United States,America
+7896,Wyoming,United States,America
+7908,Saint Augustine,United States,America
+7920,San Ramon,United States,America
+7932,Bethlehem,United States,America
+7944,Cedar Park,United States,America
+7956,Arlington Heights,United States,America
+7968,Union City,United States,America
+7980,Bolingbrook,United States,America
+7992,Anniston,United States,America
+8004,Oshkosh,United States,America
+8016,Evanston,United States,America
+8028,Camarillo,United States,America
+8040,Camden,United States,America
+8052,Hilton Head Island,United States,America
+8064,Missouri City,United States,America
+8088,Rochester Hills,United States,America
+8100,Schaumburg,United States,America
+8112,Winchester,United States,America
+8124,Harrisonburg,United States,America
+8136,Wausau,United States,America
+8148,Jonesboro,United States,America
+8172,Rancho Cordova,United States,America
+8184,Southfield,United States,America
+8196,Owensboro,United States,America
+8208,Apple Valley,United States,America
+8220,Pasco,United States,America
+8232,Conway,United States,America
+8244,Lodi,United States,America
+8256,New Britain,United States,America
+8268,Mansfield,United States,America
+8280,Waukesha,United States,America
+8292,Morgantown,United States,America
+8304,Pittsburg,United States,America
+8316,Sumter,United States,America
+8328,Pawtucket,United States,America
+8340,Lauderhill,United States,America
+8364,Dothan,United States,America
+8376,Redlands,United States,America
+8388,Wenatchee,United States,America
+8400,Passaic,United States,America
+8424,Lynwood,United States,America
+8436,Maple Grove,United States,America
+8448,Pocatello,United States,America
+8460,South Jordan,United States,America
+8472,Weston,United States,America
+8484,Georgetown,United States,America
+8496,Janesville,United States,America
+8508,North Richland Hills,United States,America
+8532,Saint Charles,United States,America
+8544,Sheboygan,United States,America
+8556,Homestead,United States,America
+8568,Bristol,United States,America
+8580,Lima,United States,America
+8592,Walnut Creek,United States,America
+8604,Woodbury,United States,America
+8616,West Bend,United States,America
+8628,Mount Vernon,United States,America
+8652,Daphne,United States,America
+8688,Delray Beach,United States,America
+8700,Gaithersburg,United States,America
+8724,Palatine,United States,America
+8736,Dubuque,United States,America
+8748,Bossier City,United States,America
+8760,Buckeye,United States,America
+8772,Rockville,United States,America
+8784,Broomfield,United States,America
+8796,Victoria,United States,America
+8808,Yorba Linda,United States,America
+8820,Ames,United States,America
+8832,Daytona Beach,United States,America
+8844,Redondo Beach,United States,America
+8856,Carbondale,United States,America
+8868,Hanover,United States,America
+8880,Saratoga Springs,United States,America
+8892,DeKalb,United States,America
+8904,Casper,United States,America
+8916,Kenner,United States,America
+8928,South San Francisco,United States,America
+8940,Sherman,United States,America
+8952,Petaluma,United States,America
+8964,Bayonne,United States,America
+8976,Palo Alto,United States,America
+8988,Weirton,United States,America
+9000,Bay City,United States,America
+9012,Eagan,United States,America
+9024,Los Lunas,United States,America
+9036,Corvallis,United States,America
+9048,Rogers,United States,America
+9060,Lake Elsinore,United States,America
+9072,Laguna Niguel,United States,America
+9084,Grand Forks,United States,America
+9096,North Little Rock,United States,America
+9108,Alpharetta,United States,America
+9120,Tamarac,United States,America
+9132,Schenectady,United States,America
+9144,Great Falls,United States,America
+9168,West Des Moines,United States,America
+9180,Shawnee,United States,America
+9192,East Orange,United States,America
+9204,San Clemente,United States,America
+9216,Michigan City,United States,America
+9228,Jupiter,United States,America
+9240,Wellington,United States,America
+9252,Rocklin,United States,America
+9264,Rocky Mount,United States,America
+9276,Fairbanks,United States,America
+9288,Elmira,United States,America
+9300,Johnstown,United States,America
+9312,Blaine,United States,America
+9324,Sammamish,United States,America
+9336,Eden Prairie,United States,America
+9348,Redmond,United States,America
+9360,Glens Falls,United States,America
+9372,Parkersburg,United States,America
+9384,Skokie,United States,America
+9396,Tulare,United States,America
+9408,Lakeville,United States,America
+9420,Haverhill,United States,America
+9432,Pico Rivera,United States,America
+9444,Beloit,United States,America
+9456,Pflugerville,United States,America
+9468,Eastvale,United States,America
+9480,Port Orange,United States,America
+9492,Montebello,United States,America
+9504,Encinitas,United States,America
+9516,Rowlett,United States,America
+9528,Monessen,United States,America
+9540,Sebring,United States,America
+9552,Lehi,United States,America
+9564,Coon Rapids,United States,America
+9576,La Habra,United States,America
+9588,Waltham,United States,America
+9600,Brentwood,United States,America
+9612,Ankeny,United States,America
+9624,San Luis Obispo,United States,America
+9648,Council Bluffs,United States,America
+9660,Castle Rock,United States,America
+9672,North Miami,United States,America
+9684,Hamilton,United States,America
+9696,Mankato,United States,America
+9708,Noblesville,United States,America
+9720,Gadsden,United States,America
+9732,Moore,United States,America
+9744,Burnsville,United States,America
+9756,National City,United States,America
+9768,Taylor,United States,America
+9780,Malden,United States,America
+9792,Doral,United States,America
+9804,Marietta,United States,America
+9816,Monterey Park,United States,America
+9828,Coconut Creek,United States,America
+9840,Rome,United States,America
+9852,Dublin,United States,America
+9876,Cupertino,United States,America
+9888,Morristown,United States,America
+9912,Gardena,United States,America
+9936,Millcreek,United States,America
+9948,Woodland,United States,America
+9960,La Mesa,United States,America
+9972,Taylorsville,United States,America
+9984,Benton Harbor,United States,America
+9996,West Allis,United States,America
+10008,Meriden,United States,America
+10020,Chapel Hill,United States,America
+10032,Pontiac,United States,America
+10044,Novi,United States,America
+10056,Saint Clair Shores,United States,America
+10068,Beckley,United States,America
+10080,Sanford,United States,America
+10104,Royal Oak,United States,America
+10116,Bangor,United States,America
+10128,Bartlett,United States,America
+10140,San Rafael,United States,America
+10152,White Plains,United States,America
+10164,Goldsboro,United States,America
+10176,Bowie,United States,America
+10188,Huntington Park,United States,America
+10200,Arcadia,United States,America
+10212,Lewiston,United States,America
+10236,Orland Park,United States,America
+10248,Casa Grande,United States,America
+10260,Staunton,United States,America
+10272,Margate,United States,America
+10284,Jefferson City,United States,America
+10296,Des Plaines,United States,America
+10308,Santee,United States,America
+10332,Hot Springs,United States,America
+10356,Walla Walla,United States,America
+10368,Carson City,United States,America
+10380,Hendersonville,United States,America
+10392,Titusville,United States,America
+10404,Greenwood,United States,America
+10416,Midwest City,United States,America
+10440,Saint Peters,United States,America
+10452,Taunton,United States,America
+10464,New Brunswick,United States,America
+10476,East Stroudsburg,United States,America
+10488,Smyrna,United States,America
+10500,Tinley Park,United States,America
+10512,Diamond Bar,United States,America
+10524,Bradenton,United States,America
+10536,Fountain Valley,United States,America
+10548,Pittsfield,United States,America
+10560,Richland,United States,America
+10572,Huntersville,United States,America
+10584,Shoreline,United States,America
+10596,Oak Lawn,United States,America
+10608,Novato,United States,America
+10620,Commerce City,United States,America
+10632,Hempstead,United States,America
+10644,Cartersville,United States,America
+10656,Dearborn Heights,United States,America
+10668,Kingston,United States,America
+10680,Berwyn,United States,America
+10692,Chicopee,United States,America
+10704,Hazleton,United States,America
+10716,Ithaca,United States,America
+10728,Highland,United States,America
+10740,Lake Havasu City,United States,America
+10752,Kettering,United States,America
+10764,Euless,United States,America
+10776,Hoboken,United States,America
+10788,Palm Beach Gardens,United States,America
+10800,Watertown,United States,America
+10812,Grants Pass,United States,America
+10824,Blue Springs,United States,America
+10836,Paramount,United States,America
+10848,West Haven,United States,America
+10860,Colton,United States,America
+10872,Caldwell,United States,America
+10884,Fond du Lac,United States,America
+10896,Arroyo Grande,United States,America
+10908,Cathedral City,United States,America
+10920,Cape Girardeau,United States,America
+10932,Rosemead,United States,America
+10944,Delano,United States,America
+10956,Stonecrest,United States,America
+10968,Twin Falls,United States,America
+10980,Williamsport,United States,America
+10992,Eagle Pass,United States,America
+11004,Normal,United States,America
+11016,West New York,United States,America
+11040,Beaufort,United States,America
+11052,Parker,United States,America
+11064,Southaven,United States,America
+11076,Brunswick,United States,America
+11088,Revere,United States,America
+11100,Grapevine,United States,America
+11112,Bozeman,United States,America
+11124,Mount Prospect,United States,America
+11136,Elyria,United States,America
+11148,Yucaipa,United States,America
+11160,DeSoto,United States,America
+11172,Lenexa,United States,America
+11184,Brookhaven,United States,America
+11196,West Sacramento,United States,America
+11220,Grand Island,United States,America
+11244,Wheaton,United States,America
+11256,Tigard,United States,America
+11268,Minnetonka,United States,America
+11280,Peabody,United States,America
+11292,City of Milford (balance),United States,America
+11304,Palm Desert,United States,America
+11316,Lompoc,United States,America
+11328,Pinellas Park,United States,America
+11340,Perth Amboy,United States,America
+11352,Farmington,United States,America
+11364,Glendora,United States,America
+11388,Chambersburg,United States,America
+11400,Oak Park,United States,America
+11412,Placentia,United States,America
+11424,Edina,United States,America
+11436,Kentwood,United States,America
+11448,Burien,United States,America
+11460,Aliso Viejo,United States,America
+11472,Sierra Vista,United States,America
+11484,Hoffman Estates,United States,America
+11496,Apopka,United States,America
+11508,Florissant,United States,America
+11520,Bloomsburg,United States,America
+11532,Plainfield,United States,America
+11556,Coral Gables,United States,America
+11568,Cerritos,United States,America
+11580,Hinesville,United States,America
+11592,New Bern,United States,America
+11604,Apex,United States,America
+11616,Summerville,United States,America
+11628,Collierville,United States,America
+11640,Methuen,United States,America
+11664,Helena,United States,America
+11676,Poway,United States,America
+11688,Mexico City,Mexico,America
+11700,Guadalajara,Mexico,America
+11712,Monterrey,Mexico,America
+11724,Puebla,Mexico,America
+11736,Tijuana,Mexico,America
+11748,Toluca,Mexico,America
+11760,Leon,Mexico,America
+11772,Ciudad Juarez,Mexico,America
+11784,Torreon,Mexico,America
+11796,Nezahualcoyotl,Mexico,America
+11808,San Luis Potosi,Mexico,America
+11820,Merida,Mexico,America
+11832,Queretaro,Mexico,America
+11844,Mexicali,Mexico,America
+11856,Aguascalientes,Mexico,America
+11868,Tampico,Mexico,America
+11880,Cuernavaca,Mexico,America
+11892,Culiacan,Mexico,America
+11904,Chihuahua,Mexico,America
+11916,Saltillo,Mexico,America
+11928,Acapulco,Mexico,America
+11940,Morelia,Mexico,America
+11952,Hermosillo,Mexico,America
+11964,Veracruz,Mexico,America
+11976,Cancun,Mexico,America
+11988,Matamoros,Mexico,America
+12000,Oaxaca,Mexico,America
+12012,Tlaxcala,Mexico,America
+12024,Mazatlan,Mexico,America
+12036,Reynosa,Mexico,America
+12048,Tuxtla Gutierrez,Mexico,America
+12060,Durango,Mexico,America
+12072,Xalapa,Mexico,America
+12084,Villahermosa,Mexico,America
+12096,Gomez Palacio,Mexico,America
+12108,Celaya,Mexico,America
+12132,Orizaba,Mexico,America
+12144,Nuevo Laredo,Mexico,America
+12156,Irapuato,Mexico,America
+12168,Pachuca,Mexico,America
+12180,Tepic,Mexico,America
+12192,Ciudad Obregon,Mexico,America
+12204,Coatzacoalcos,Mexico,America
+12216,Ciudad Victoria,Mexico,America
+12228,Uruapan,Mexico,America
+12240,Ensenada,Mexico,America
+12252,Poza Rica de Hidalgo,Mexico,America
+12264,Zumpango,Mexico,America
+12276,Los Mochis,Mexico,America
+12288,Tehuacan,Mexico,America
+12300,Monclova,Mexico,America
+12312,Zacatecas,Mexico,America
+12324,Colima,Mexico,America
+12336,Tapachula,Mexico,America
+12348,Cordoba,Mexico,America
+12360,Zamora,Mexico,America
+12372,Campeche,Mexico,America
+12384,Minatitlan,Mexico,America
+12396,Salamanca,Mexico,America
+12408,Ciudad Madero,Mexico,America
+12420,La Paz,Mexico,America
+12432,Puerto Vallarta,Mexico,America
+12444,San Cristobal de Las Casas,Mexico,America
+12456,Chilpancingo,Mexico,America
+12468,Nogales,Mexico,America
+12480,Teziutlan,Mexico,America
+12492,Lazaro Cardenas,Mexico,America
+12504,Ciudad del Carmen,Mexico,America
+12516,Chetumal,Mexico,America
+12528,San Juan del Rio,Mexico,America
+12540,Piedras Negras,Mexico,America
+12552,Navajoa,Mexico,America
+12564,Ciudad Valles,Mexico,America
+12576,Delicias,Mexico,America
+12588,Guanajuato,Mexico,America
+12600,Iguala,Mexico,America
+12612,Manzanillo,Mexico,America
+12624,Tuxpam,Mexico,America
+12636,Escuintla,Mexico,America
+12648,Fresnillo,Mexico,America
+12660,Guaymas,Mexico,America
+12672,Hidalgo del Parral,Mexico,America
+12684,Apatzingan,Mexico,America
+12696,Atlixco,Mexico,America
+12708,Guasave,Mexico,America
+12720,Lagos de Moreno,Mexico,America
+12732,Ciudad Guzman,Mexico,America
+12744,Tecoman,Mexico,America
+12756,Cuauhtemoc,Mexico,America
+12768,Agua Prieta,Mexico,America
+12780,Salina Cruz,Mexico,America
+12792,Ciudad Mante,Mexico,America
+12804,Cozumel,Mexico,America
+12816,Tamazunchale,Mexico,America
+12828,Rio Verde,Mexico,America
+12840,Matehuala,Mexico,America
+12852,Juchitan,Mexico,America
+12864,Jaltipan,Mexico,America
+12876,Ciudad Hidalgo,Mexico,America
+12888,Guamuchil,Mexico,America
+12900,Linares,Mexico,America
+12912,Caborca,Mexico,America
+12924,Nuevo Casas Grandes,Mexico,America
+12936,San Pedro de las Colonias,Mexico,America
+12948,Taxco,Mexico,America
+12960,Mumbai,India,Asia
+12972,Delhi,India,Asia
+12984,Kolkata,India,Asia
+12996,Chennai,India,Asia
+13008,Bangalore,India,Asia
+13020,Hyderabad,India,Asia
+13032,Ahmedabad,India,Asia
+13044,Haora,India,Asia
+13056,Pune,India,Asia
+13068,Surat,India,Asia
+13080,Kanpur,India,Asia
+13092,Jaipur,India,Asia
+13104,Lucknow,India,Asia
+13116,Nagpur,India,Asia
+13128,Patna,India,Asia
+13140,Indore,India,Asia
+13152,Vadodara,India,Asia
+13164,Bhopal,India,Asia
+13176,Coimbatore,India,Asia
+13188,Ludhiana,India,Asia
+13200,Agra,India,Asia
+13212,Kalyan,India,Asia
+13224,Vishakhapatnam,India,Asia
+13236,Kochi,India,Asia
+13248,Nasik,India,Asia
+13260,Meerut,India,Asia
+13272,Faridabad,India,Asia
+13284,Varanasi,India,Asia
+13296,Ghaziabad,India,Asia
+13308,Asansol,India,Asia
+13320,Jamshedpur,India,Asia
+13332,Madurai,India,Asia
+13344,Jabalpur,India,Asia
+13356,Rajkot,India,Asia
+13368,Dhanbad,India,Asia
+13380,Amritsar,India,Asia
+13392,Warangal,India,Asia
+13404,Allahabad,India,Asia
+13416,Srinagar,India,Asia
+13428,Vijayawada,India,Asia
+13440,Aurangabad,India,Asia
+13452,Bhilai,India,Asia
+13464,Sholapur,India,Asia
+13476,Ranchi,India,Asia
+13488,Jodhpur,India,Asia
+13500,Guwahati,India,Asia
+13512,Chandigarh,India,Asia
+13524,Gwalior,India,Asia
+13536,Thiruvananthapuram,India,Asia
+13548,Kozhikode,India,Asia
+13560,Tiruchirappalli,India,Asia
+13572,Hubli,India,Asia
+13584,Mysore,India,Asia
+13596,Raipur,India,Asia
+13620,Jullundur,India,Asia
+13632,Bhubaneshwar,India,Asia
+13644,Kota,India,Asia
+13656,Jhansi,India,Asia
+13668,Bareilly,India,Asia
+13680,Aligarh,India,Asia
+13692,Bhiwandi,India,Asia
+13704,Jammu,India,Asia
+13716,Moradabad,India,Asia
+13728,Mangalore,India,Asia
+13740,Kolhapur,India,Asia
+13752,Amravati,India,Asia
+13764,Dehra Dun,India,Asia
+13776,Malegaon,India,Asia
+13788,Nellore,India,Asia
+13800,Gorakhpur,India,Asia
+13812,Shimoga,India,Asia
+13824,Tiruppur,India,Asia
+13836,Raurkela,India,Asia
+13848,Nanded,India,Asia
+13860,Belgaum,India,Asia
+13872,Sangli,India,Asia
+13884,Chandrapur,India,Asia
+13896,Ajmer,India,Asia
+13908,Cuttack,India,Asia
+13920,Bikaner,India,Asia
+13932,Bhavnagar,India,Asia
+13944,Hisar,India,Asia
+13956,Bilaspur,India,Asia
+13968,Tirunelveli,India,Asia
+13980,Guntur,India,Asia
+13992,Siliguri,India,Asia
+14004,Ujjain,India,Asia
+14016,Davangere,India,Asia
+14028,Akola,India,Asia
+14040,Saharanpur,India,Asia
+14052,Gulbarga,India,Asia
+14064,Bhatpara,India,Asia
+14076,Dhule,India,Asia
+14088,Udaipur,India,Asia
+14100,Bellary,India,Asia
+14112,Tuticorin,India,Asia
+14124,Kurnool,India,Asia
+14136,Gaya,India,Asia
+14148,Sikar,India,Asia
+14160,Tumkur,India,Asia
+14172,Kollam,India,Asia
+14184,Ahmednagar,India,Asia
+14196,Bhilwara,India,Asia
+14208,Nizamabad,India,Asia
+14220,Parbhani,India,Asia
+14232,Shillong,India,Asia
+14244,Latur,India,Asia
+14256,Rajapalaiyam,India,Asia
+14268,Bhagalpur,India,Asia
+14280,Muzaffarnagar,India,Asia
+14292,Muzaffarpur,India,Asia
+14304,Mathura,India,Asia
+14316,Patiala,India,Asia
+14328,Sagar,India,Asia
+14340,Brahmapur,India,Asia
+14352,Shahjahanpur,India,Asia
+14364,New Delhi,India,Asia
+14376,Rohtak,India,Asia
+14388,Sambalpur,India,Asia
+14400,Ratlam,India,Asia
+14412,Firozabad,India,Asia
+14424,Rajahmundry,India,Asia
+14436,Barddhaman,India,Asia
+14448,Bidar,India,Asia
+14460,Rampur,India,Asia
+14472,Kakinada,India,Asia
+14484,Panipat,India,Asia
+14496,Khammam,India,Asia
+14508,Bhuj,India,Asia
+14520,Karimnagar,India,Asia
+14532,Tirupati,India,Asia
+14544,Hospet,India,Asia
+14556,Mandya,India,Asia
+14568,Alwar,India,Asia
+14580,Aizawl,India,Asia
+14592,Bijapur,India,Asia
+14604,Imphal,India,Asia
+14616,Etawah,India,Asia
+14628,Raichur,India,Asia
+14640,Pathankot,India,Asia
+14652,Chirala,India,Asia
+14664,Sonipat,India,Asia
+14676,Mirzapur,India,Asia
+14688,Hapur,India,Asia
+14700,Porbandar,India,Asia
+14712,Bharatpur,India,Asia
+14724,Pondicherry,India,Asia
+14736,Karnal,India,Asia
+14748,Nagercoil,India,Asia
+14760,Thanjavur,India,Asia
+14772,Pali,India,Asia
+14784,Agartala,India,Asia
+14796,Ongole,India,Asia
+14808,Puri,India,Asia
+14820,Dindigul,India,Asia
+14832,Haldia,India,Asia
+14844,Bulandshahr,India,Asia
+14856,Purnia,India,Asia
+14868,Proddatur,India,Asia
+14880,Gurgaon,India,Asia
+14892,Burhanpur,India,Asia
+14904,Gandhinagar,India,Asia
+14916,Machilipatnam,India,Asia
+14928,Bhiwani,India,Asia
+14940,Nandyal,India,Asia
+14952,Bhusawal,India,Asia
+14964,Bahraich,India,Asia
+14976,Tonk,India,Asia
+14988,Sirsa,India,Asia
+15000,Vizianagaram,India,Asia
+15012,Vellore,India,Asia
+15024,Alappuzha,India,Asia
+15036,Simla,India,Asia
+15048,Medinipur,India,Asia
+15060,Hindupur,India,Asia
+15072,Baramula,India,Asia
+15084,Fatehpur,India,Asia
+15096,Dibrugarh,India,Asia
+15108,Sitapur,India,Asia
+15120,Navsari,India,Asia
+15132,Budaun,India,Asia
+15144,Cuddalore,India,Asia
+15156,Hoshiarpur,India,Asia
+15168,Kanchipuram,India,Asia
+15180,Faizabad,India,Asia
+15192,Silchar,India,Asia
+15204,Ambala,India,Asia
+15216,Krishnanagar,India,Asia
+15228,Kolar,India,Asia
+15240,Kumbakonam,India,Asia
+15252,Tiruvannamalai,India,Asia
+15264,Pilibhit,India,Asia
+15276,Abohar,India,Asia
+15288,Port Blair,India,Asia
+15300,Alipur Duar,India,Asia
+15312,Hathras,India,Asia
+15324,Valparai,India,Asia
+15348,Kohima,India,Asia
+15360,Gangtok,India,Asia
+15372,Karur,India,Asia
+15384,Jorhat,India,Asia
+15396,Panaji,India,Asia
+15408,Sopore,India,Asia
+15420,Tezpur,India,Asia
+15432,Sao Paulo,Brazil,America
+15444,Rio de Janeiro,Brazil,America
+15456,Belo Horizonte,Brazil,America
+15468,Porto Alegre,Brazil,America
+15480,Brasilia,Brazil,America
+15492,Recife,Brazil,America
+15504,Fortaleza,Brazil,America
+15516,Salvador,Brazil,America
+15528,Curitiba,Brazil,America
+15540,Campinas,Brazil,America
+15552,Belem,Brazil,America
+15564,Goiania,Brazil,America
+15576,Manaus,Brazil,America
+15588,Santos,Brazil,America
+15600,Vitoria,Brazil,America
+15612,Niteroi,Brazil,America
+15624,Vila Velha,Brazil,America
+15648,Maceio,Brazil,America
+15660,Natal,Brazil,America
+15672,Sao Luis,Brazil,America
+15684,Florianopolis,Brazil,America
+15696,Joinville,Brazil,America
+15720,Joao Pessoa,Brazil,America
+15732,Olinda,Brazil,America
+15744,Teresina,Brazil,America
+15756,Novo Hamburgo,Brazil,America
+15768,Nova Iguacu,Brazil,America
+15780,Cuiaba,Brazil,America
+15792,Campo Grande,Brazil,America
+15804,Sao Jose dos Campos,Brazil,America
+15816,Jaboatao,Brazil,America
+15828,Aracaju,Brazil,America
+15840,Sao Jose dos Pinhais,Brazil,America
+15852,Santo Andre,Brazil,America
+15864,Canoas,Brazil,America
+15876,Uberlandia,Brazil,America
+15888,Sorocaba,Brazil,America
+15900,Ribeirao Preto,Brazil,America
+15912,Londrina,Brazil,America
+15924,Jundiai,Brazil,America
+15936,Macapa,Brazil,America
+15948,Feira de Santana,Brazil,America
+15960,Americana,Brazil,America
+15972,Juiz de Fora,Brazil,America
+15984,Volta Redonda,Brazil,America
+15996,Foz do Iguacu,Brazil,America
+16008,Campina Grande,Brazil,America
+16020,Ipatinga,Brazil,America
+16032,Taubate,Brazil,America
+16044,Campos,Brazil,America
+16056,Caxias do Sul,Brazil,America
+16068,Sao Jose do Rio Preto,Brazil,America
+16080,Piracicaba,Brazil,America
+16092,Bauru,Brazil,America
+16104,Montes Claros,Brazil,America
+16116,Maringa,Brazil,America
+16128,Itajai,Brazil,America
+16140,Pelotas,Brazil,America
+16152,Itu,Brazil,America
+16164,Anapolis,Brazil,America
+16176,Vitoria da Conquista,Brazil,America
+16188,Porto Velho,Brazil,America
+16200,Franca,Brazil,America
+16212,Blumenau,Brazil,America
+16224,Ponta Grossa,Brazil,America
+16236,Limeira,Brazil,America
+16248,Petropolis,Brazil,America
+16260,Crato,Brazil,America
+16284,Cabo Frio,Brazil,America
+16296,Petrolina,Brazil,America
+16308,Uberaba,Brazil,America
+16320,Rio Branco,Brazil,America
+16332,Cascavel,Brazil,America
+16344,Governador Valadares,Brazil,America
+16356,Varzea Grande,Brazil,America
+16380,Caruaru,Brazil,America
+16392,Palmas,Brazil,America
+16404,Boa Vista,Brazil,America
+16416,Ilheus,Brazil,America
+16428,Santarem,Brazil,America
+16440,Juazeiro do Norte,Brazil,America
+16452,Itabuna,Brazil,America
+16464,Imperatriz,Brazil,America
+16476,Marilia,Brazil,America
+16488,Presidente Prudente,Brazil,America
+16500,Sao Carlos,Brazil,America
+16512,Criciuma,Brazil,America
+16524,Guaratingueta,Brazil,America
+16536,Timon,Brazil,America
+16548,Mossoro,Brazil,America
+16560,Sete Lagoas,Brazil,America
+16572,Divinopolis,Brazil,America
+16584,Rio Grande,Brazil,America
+16596,Arapiraca,Brazil,America
+16608,Cachoeiro de Itapemirim,Brazil,America
+16620,Rio Claro,Brazil,America
+16632,Passo Fundo,Brazil,America
+16644,Nova Friburgo,Brazil,America
+16656,Aracatuba,Brazil,America
+16668,Barra Mansa,Brazil,America
+16680,Maraba,Brazil,America
+16692,Carpina,Brazil,America
+16704,Lajes,Brazil,America
+16716,Dourados,Brazil,America
+16728,Xapeco,Brazil,America
+16740,Rio Largo,Brazil,America
+16752,Barreiras,Brazil,America
+16764,Sobral,Brazil,America
+16776,Rondonopolis,Brazil,America
+16788,Guarapuava,Brazil,America
+16800,Pocos de Caldas,Brazil,America
+16812,Cabo de Santo Agostinho,Brazil,America
+16824,Macae,Brazil,America
+16836,Paranagua,Brazil,America
+16848,Parnaiba,Brazil,America
+16860,Castanhal,Brazil,America
+16872,Jequie,Brazil,America
+16884,Caxias,Brazil,America
+16896,Pindamonhangaba,Brazil,America
+16908,Jaragua do Sul,Brazil,America
+16920,Braganca Paulista,Brazil,America
+16932,Itapetininga,Brazil,America
+16944,Alagoinhas,Brazil,America
+16956,Uruguaiana,Brazil,America
+16968,Porto Seguro,Brazil,America
+16980,Barbacena,Brazil,America
+16992,Jau,Brazil,America
+17004,Pouso Alegre,Brazil,America
+17016,Botucatu,Brazil,America
+17028,Santa Cruz do Sul,Brazil,America
+17040,Conselheiro Lafaiete,Brazil,America
+17052,Garanhuns,Brazil,America
+17064,Catanduva,Brazil,America
+17076,Apucarana,Brazil,America
+17088,Bage,Brazil,America
+17100,Linhares,Brazil,America
+17112,Barretos,Brazil,America
+17124,Teofilo Otoni,Brazil,America
+17136,Passos,Brazil,America
+17148,Uba,Brazil,America
+17160,Ourinhos,Brazil,America
+17172,Trindade,Brazil,America
+17184,Arapongas,Brazil,America
+17196,Araguari,Brazil,America
+17208,Corumba,Brazil,America
+17220,Erechim,Brazil,America
+17232,Juazeiro,Brazil,America
+17244,Ponta Pora,Brazil,America
+17256,Bento Goncalves,Brazil,America
+17268,Tatui,Brazil,America
+17280,Patos,Brazil,America
+17292,Itaituba,Brazil,America
+17304,Tubarao,Brazil,America
+17316,Muriae,Brazil,America
+17328,Itanhaem,Brazil,America
+17340,Santana do Livramento,Brazil,America
+17352,Nova Lima,Brazil,America
+17364,Brusque,Brazil,America
+17376,Assis,Brazil,America
+17388,Paulo Afonso,Brazil,America
+17400,Ituiutaba,Brazil,America
+17412,Caceres,Brazil,America
+17424,Porto Santana,Brazil,America
+17436,Codo,Brazil,America
+17448,Araxa,Brazil,America
+17460,Lavras,Brazil,America
+17472,Avare,Brazil,America
+17484,Formosa,Brazil,America
+17496,Itumbiara,Brazil,America
+17508,Abaetetuba,Brazil,America
+17520,Tres Lagoas,Brazil,America
+17532,Sao Joao del Rei,Brazil,America
+17544,Itauna,Brazil,America
+17556,Sao Mateus,Brazil,America
+17568,Jatai,Brazil,America
+17580,Sao Joao da Boa Vista,Brazil,America
+17592,Tucurui,Brazil,America
+17604,Campo Murao,Brazil,America
+17616,Cachoeira do Sul,Brazil,America
+17628,Bacabal,Brazil,America
+17640,Porto Uniao,Brazil,America
+17652,Goiana,Brazil,America
+17664,Ijui,Brazil,America
+17676,Altamira,Brazil,America
+17688,Paracatu,Brazil,America
+17700,Iguatu,Brazil,America
+17712,Paragominas,Brazil,America
+17724,Guajara-Miram,Brazil,America
+17736,Jaboticabal,Brazil,America
+17748,Balsas,Brazil,America
+17760,Santa Ines,Brazil,America
+17772,Rio Negro,Brazil,America
+17784,Santo Ângelo,Brazil,America
+17796,Ji-Parana,Brazil,America
+17808,Gurupi,Brazil,America
+17820,Parintins,Brazil,America
+17832,Curvelo,Brazil,America
+17844,Cacador,Brazil,America
+17856,Irece,Brazil,America
+17868,Catalao,Brazil,America
+17880,Vilhena,Brazil,America
+17892,Valenca,Brazil,America
+17904,Itapeva,Brazil,America
+17916,Tupa,Brazil,America
+17928,Fernandopolis,Brazil,America
+17940,Canela,Brazil,America
+17952,Pirassununga,Brazil,America
+17964,Pirapora,Brazil,America
+17976,Caratinga,Brazil,America
+17988,Itapetinga,Brazil,America
+18000,Sao Borja,Brazil,America
+18012,Carazinho,Brazil,America
+18036,Manacapuru,Brazil,America
+18048,Telemaco Borba,Brazil,America
+18060,Guanambi,Brazil,America
+18072,Ariquemes,Brazil,America
+18084,Timbauba,Brazil,America
+18096,Picos,Brazil,America
+18108,Arcoverde,Brazil,America
+18120,Braganca,Brazil,America
+18132,Cruzeiro do Sul,Brazil,America
+18144,Serrinha,Brazil,America
+18156,Vacaria,Brazil,America
+18168,Janauba,Brazil,America
+18180,Formiga,Brazil,America
+18192,Nova Vicosa,Brazil,America
+18204,Itapipoca,Brazil,America
+18216,Estancia,Brazil,America
+18228,Sao Gabriel,Brazil,America
+18240,Concordia,Brazil,America
+18252,Sao Jose de Ribamar,Brazil,America
+18264,Caico,Brazil,America
+18276,Penapolis,Brazil,America
+18288,Coari,Brazil,America
+18300,Registro,Brazil,America
+18312,Camaqua,Brazil,America
+18324,Crateus,Brazil,America
+18336,Andradina,Brazil,America
+18348,Barra do Garcas,Brazil,America
+18360,Batatais,Brazil,America
+18372,Itacoatiara,Brazil,America
+18384,Tefe,Brazil,America
+18396,Araguaina,Brazil,America
+18408,Shanghai,China,Asia
+18420,Beijing,China,Asia
+18432,Guangzhou,China,Asia
+18444,Shenzhen,China,Asia
+18456,Wuhan,China,Asia
+18468,Tianjin,China,Asia
+18480,Chongqing,China,Asia
+18492,Shenyeng,China,Asia
+18504,Dongguan,China,Asia
+18516,Chengdu,China,Asia
+18528,Xian,China,Asia
+18540,Hechi,China,Asia
+18552,Nanjing,China,Asia
+18564,Guiyang,China,Asia
+18576,Harbin,China,Asia
+18588,Zhangzhou,China,Asia
+18600,Changchun,China,Asia
+18612,Dalian,China,Asia
+18624,Zibo,China,Asia
+18636,Hangzhou,China,Asia
+18648,Kunming,China,Asia
+18660,Taiyuan,China,Asia
+18672,Qingdao,China,Asia
+18684,Jinan,China,Asia
+18696,Zhengzhou,China,Asia
+18708,Fuzhou,China,Asia
+18720,Changsha,China,Asia
+18732,Xiangtan,China,Asia
+18744,Lanzhou,China,Asia
+18756,Xiamen,China,Asia
+18768,Jinxi,China,Asia
+18780,Shijianzhuang,China,Asia
+18792,Jilin,China,Asia
+18804,Nanchang,China,Asia
+18816,Wenzhou,China,Asia
+18828,Nanchong,China,Asia
+18840,Nanning,China,Asia
+18852,Ürumqi,China,Asia
+18864,Zaozhuang,China,Asia
+18876,Yantai,China,Asia
+18888,Xuzhou,China,Asia
+18900,Linyi,China,Asia
+18912,Haikou,China,Asia
+18924,Baotou,China,Asia
+18936,Hefei,China,Asia
+18948,Suzhou,China,Asia
+18960,Nanyang,China,Asia
+18972,Ningbo,China,Asia
+18984,Tangshan,China,Asia
+18996,Datong,China,Asia
+19008,Shuyang,China,Asia
+19020,Shangqiu,China,Asia
+19032,Wuxi,China,Asia
+19044,Hohhot,China,Asia
+19056,Luoyang,China,Asia
+19068,Jianmen,China,Asia
+19080,Daqing,China,Asia
+19092,Luan,China,Asia
+19104,Wanzhou,China,Asia
+19128,Qiqihar,China,Asia
+19140,Anshan,China,Asia
+19152,Handan,China,Asia
+19164,Taian,China,Asia
+19176,Shantou,China,Asia
+19188,Zhanjiang,China,Asia
+19200,Xiantao,China,Asia
+19212,Weifang,China,Asia
+19224,Xinyang,China,Asia
+19236,Luzhou,China,Asia
+19248,Ganzhou,China,Asia
+19260,Liuzhou,China,Asia
+19272,Fushun,China,Asia
+19284,Changde,China,Asia
+19296,Neijiang,China,Asia
+19308,Quanzhou,China,Asia
+19320,Huainan,China,Asia
+19332,Suining,China,Asia
+19344,Mianyang,China,Asia
+19356,Maanshan,China,Asia
+19368,Yiyang,China,Asia
+19380,Heze,China,Asia
+19392,Changzhou,China,Asia
+19404,Chifeng,China,Asia
+19416,Huaiyin,China,Asia
+19428,Mudangiang,China,Asia
+19440,Huzhou,China,Asia
+19452,Tianshui,China,Asia
+19464,Lupanshui,China,Asia
+19476,Maoming,China,Asia
+19488,Jining,China,Asia
+19500,Leshan,China,Asia
+19512,Shangrao,China,Asia
+19524,Yulin,China,Asia
+19536,Xianyang,China,Asia
+19548,Baoding,China,Asia
+19560,Zigong,China,Asia
+19572,Ankang,China,Asia
+19584,Jinhua,China,Asia
+19596,Zhuzhou,China,Asia
+19608,Xiangfan,China,Asia
+19620,Zhucheng,China,Asia
+19632,Xining,China,Asia
+19644,Zhangjiakou,China,Asia
+19656,Zhuhai,China,Asia
+19668,Jiamusi,China,Asia
+19680,Hengyang,China,Asia
+19692,Benxi,China,Asia
+19704,Qinhuangdao,China,Asia
+19716,Yongzhou,China,Asia
+19728,Baoshan,China,Asia
+19740,Yinchuan,China,Asia
+19752,Jiaxing,China,Asia
+19764,Guilin,China,Asia
+19776,Yichun,China,Asia
+19788,Yangquan,China,Asia
+19800,Jixi,China,Asia
+19812,Xinyi,China,Asia
+19824,Pingxiang,China,Asia
+19836,Jinzhou,China,Asia
+19848,Nantong,China,Asia
+19860,Foshan,China,Asia
+19872,Xinyu,China,Asia
+19884,Huaibei,China,Asia
+19896,Xinxiang,China,Asia
+19908,Yibin,China,Asia
+19920,Bengbu,China,Asia
+19932,Anyang,China,Asia
+19944,Tongliao,China,Asia
+19956,Yichang,China,Asia
+19968,Yangjiang,China,Asia
+19980,Kaifeng,China,Asia
+19992,Dandong,China,Asia
+20004,Xuanzhou,China,Asia
+20016,Rizhao,China,Asia
+20028,Jiaozuo,China,Asia
+20040,Zhenjiang,China,Asia
+20052,Zunyi,China,Asia
+20064,Anshun,China,Asia
+20076,Pingdingshan,China,Asia
+20088,Yuci,China,Asia
+20100,Yancheng,China,Asia
+20112,Linfen,China,Asia
+20124,Yueyang,China,Asia
+20136,Xingyi,China,Asia
+20148,Langfang,China,Asia
+20160,Wuhu,China,Asia
+20172,Zhaotang,China,Asia
+20184,Lingyuan,China,Asia
+20196,Baoji,China,Asia
+20208,Yingkow,China,Asia
+20220,Liaoyang,China,Asia
+20232,Shaoxing,China,Asia
+20256,Fuyang,China,Asia
+20268,Fuxin,China,Asia
+20280,Shiyan,China,Asia
+20292,Jincheng,China,Asia
+20304,Hegang,China,Asia
+20316,Beihai,China,Asia
+20328,Shaoguan,China,Asia
+20340,Lianyungang,China,Asia
+20352,Qingyuan,China,Asia
+20364,Changzhi,China,Asia
+20376,Huangshi,China,Asia
+20388,Puyang,China,Asia
+20400,Zhanyi,China,Asia
+20412,Zhuozhou,China,Asia
+20424,Changping,China,Asia
+20436,Taizhou,China,Asia
+20448,Xiangtai,China,Asia
+20460,Anqing,China,Asia
+20472,Shihezi,China,Asia
+20484,Shuozhou,China,Asia
+20496,Tongling,China,Asia
+20508,Weihai,China,Asia
+20520,Siping,China,Asia
+20532,Jiujiang,China,Asia
+20544,Kashgar,China,Asia
+20556,Yangzhou,China,Asia
+20568,Linxia,China,Asia
+20580,Jiangmen,China,Asia
+20592,Cangzhou,China,Asia
+20604,Jian,China,Asia
+20616,Shashi,China,Asia
+20628,Liaoyuan,China,Asia
+20640,Shuangyashan,China,Asia
+20652,Wuwei,China,Asia
+20664,Yanji,China,Asia
+20676,Zhaoqing,China,Asia
+20688,Jiaojing,China,Asia
+20700,Chaoyang,China,Asia
+20712,Panzhihua,China,Asia
+20724,Jingdezhen,China,Asia
+20736,Hengshui,China,Asia
+20748,Qitaihe,China,Asia
+20760,Chengde,China,Asia
+20772,Xuchang,China,Asia
+20784,Wuzhou,China,Asia
+20796,Guangyuan,China,Asia
+20808,Chaozhou,China,Asia
+20820,Luohe,China,Asia
+20832,Meizhou,China,Asia
+20844,Xuanhua,China,Asia
+20856,Yining,China,Asia
+20868,Jingmen,China,Asia
+20880,Yuxi,China,Asia
+20892,Baicheng,China,Asia
+20904,Xichang,China,Asia
+20916,Dezhou,China,Asia
+20928,Zhoukou,China,Asia
+20940,Putian,China,Asia
+20952,Shache,China,Asia
+20964,Quzhou,China,Asia
+20976,Longyan,China,Asia
+20988,Sanya,China,Asia
+21000,Fuyu,China,Asia
+21012,Wafangdian,China,Asia
+21024,Longxi,China,Asia
+21036,Yumen,China,Asia
+21048,Aksu,China,Asia
+21060,Yaan,China,Asia
+21072,Tieling,China,Asia
+21084,Hangu,China,Asia
+21096,Heyuan,China,Asia
+21108,Baishan,China,Asia
+21120,Chenzhou,China,Asia
+21132,Ninde,China,Asia
+21144,Mengzi,China,Asia
+21156,Hami,China,Asia
+21168,Hulan Ergi,China,Asia
+21180,Huizhou,China,Asia
+21192,Tongchuan,China,Asia
+21216,Xinzhou,China,Asia
+21228,Jinshi,China,Asia
+21240,Hotan,China,Asia
+21252,Zhuanghe,China,Asia
+21264,Turpan,China,Asia
+21276,Chuxiong,China,Asia
+21288,Suihua,China,Asia
+21300,Linhai,China,Asia
+21312,Laiyang,China,Asia
+21324,Qinzhou,China,Asia
+21336,Hebi,China,Asia
+21348,Ulanhot,China,Asia
+21360,Linchuan,China,Asia
+21372,Zicheng,China,Asia
+21384,Shishou,China,Asia
+21396,Hailar,China,Asia
+21408,Zhangye,China,Asia
+21420,Beipiao,China,Asia
+21432,Liaocheng,China,Asia
+21444,Hancheng,China,Asia
+21456,Lhasa,China,Asia
+21468,Wuhai,China,Asia
+21480,Nanping,China,Asia
+21492,Sanming,China,Asia
+21504,Pingliang,China,Asia
+21516,Korla,China,Asia
+21528,Jiutai,China,Asia
+21540,Puqi,China,Asia
+21552,Lianxian,China,Asia
+21564,Huangyan,China,Asia
+21576,Dunhua,China,Asia
+21588,Anda,China,Asia
+21600,Zhaodong,China,Asia
+21612,Bose,China,Asia
+21624,Lishui,China,Asia
+21636,Weinan,China,Asia
+21660,Simao,China,Asia
+21672,Xiaogan,China,Asia
+21684,Dali,China,Asia
+21708,Beian,China,Asia
+21720,Guangshui,China,Asia
+21732,Dingzhou,China,Asia
+21744,Wenshan,China,Asia
+21756,Deyang,China,Asia
+21768,Gejiu,China,Asia
+21780,Jiayuguan,China,Asia
+21792,Hanzhong,China,Asia
+21804,Jinchang,China,Asia
+21816,Altay,China,Asia
+21828,Jieshou,China,Asia
+21840,Nongan,China,Asia
+21852,Dunhuang,China,Asia
+21864,Zalantun,China,Asia
+21876,Shizuishan,China,Asia
+21888,Yunxian,China,Asia
+21900,Shuangcheng,China,Asia
+21912,Macheng,China,Asia
+21924,Tengchong,China,Asia
+21936,Laiwu,China,Asia
+21948,Jiaohe,China,Asia
+21960,Nancha,China,Asia
+21972,Xilinhot,China,Asia
+21984,Huanghua,China,Asia
+21996,Tongren,China,Asia
+22008,Huanren,China,Asia
+22020,Taonan,China,Asia
+22032,Yakeshi,China,Asia
+22044,Buizhou,China,Asia
+22056,Zhijiang,China,Asia
+22068,Shaowu,China,Asia
+22080,Kuqa,China,Asia
+22092,Linqing,China,Asia
+22104,Hailun,China,Asia
+22128,Tieli,China,Asia
+22140,Heihe,China,Asia
+22152,Karamay,China,Asia
+22164,Nehe,China,Asia
+22176,Golmud,China,Asia
+22188,Longjiang,China,Asia
+22212,Chamdo,China,Asia
+22224,Tumen,China,Asia
+22236,Fengzhen,China,Asia
+22248,Shangzhi,China,Asia
+22260,Boli,China,Asia
+22272,Yishui,China,Asia
+22284,Manzhouli,China,Asia
+22296,Daan,China,Asia
+22308,Fuan,China,Asia
+22320,Danjiangkou,China,Asia
+22332,Pingdu,China,Asia
+22344,Fujin,China,Asia
+22356,Wangqing,China,Asia
+22368,Changting,China,Asia
+22380,Mishan,China,Asia
+22392,Nenjiang,China,Asia
+22404,Panshi,China,Asia
+22416,Helong,China,Asia
+22428,Linjiang,China,Asia
+22440,Nangong,China,Asia
+22452,Xigaze,China,Asia
+22464,Koktokay,China,Asia
+22476,Shulan,China,Asia
+22488,Pingyi,China,Asia
+22500,Linkou,China,Asia
+22512,Jiexiu,China,Asia
+22524,Tailai,China,Asia
+22536,Shanxian,China,Asia
+22548,Lanxi,China,Asia
+22560,Keshan,China,Asia
+22572,Anlu,China,Asia
+22584,Baiquan,China,Asia
+22596,Rongzhag,China,Asia
+22608,Liuhe,China,Asia
+22620,Minxian,China,Asia
+22632,Huinan,China,Asia
+22644,Qinggang,China,Asia
+22656,Fengcheng,China,Asia
+22668,Langzhong,China,Asia
+22680,Dengzhou,China,Asia
+22692,Gannan,China,Asia
+22704,Suileng,China,Asia
+22716,Alxa Zuoqi,China,Asia
+22728,Changling,China,Asia
+22740,Xinqing,China,Asia
+22752,Ningan,China,Asia
+22764,Qingan,China,Asia
+22776,Bairin Zuoqi,China,Asia
+22788,Dhaka,Bangladesh,Asia
+22800,Chittagong,Bangladesh,Asia
+22812,Khulna,Bangladesh,Asia
+22824,Rajshahi,Bangladesh,Asia
+22836,Comilla,Bangladesh,Asia
+22848,Mymensingh,Bangladesh,Asia
+22860,Rangpur,Bangladesh,Asia
+22872,Jessore,Bangladesh,Asia
+22884,Sylhet,Bangladesh,Asia
+22896,Saidpur,Bangladesh,Asia
+22908,Narayanganj,Bangladesh,Asia
+22920,Barisal,Bangladesh,Asia
+22932,Tangail,Bangladesh,Asia
+22944,Jamalpur,Bangladesh,Asia
+22956,Nawabganj,Bangladesh,Asia
+22968,Pabna,Bangladesh,Asia
+22980,Buenos Aires,Argentina,America
+23004,Rosario,Argentina,America
+23016,Mendoza,Argentina,America
+23028,Tucuman,Argentina,America
+23040,La Plata,Argentina,America
+23052,Mar del Plata,Argentina,America
+23064,Salta,Argentina,America
+23088,San Juan,Argentina,America
+23100,San Luis,Argentina,America
+23112,Resistencia,Argentina,America
+23124,Posadas,Argentina,America
+23136,Santiago del Estero,Argentina,America
+23148,Corrientes,Argentina,America
+23160,San Salvador de Jujuy,Argentina,America
+23172,Bahia Blanca,Argentina,America
+23184,Parana,Argentina,America
+23196,Neuquen,Argentina,America
+23220,Catamarca,Argentina,America
+23232,La Rioja,Argentina,America
+23244,Rio Cuarto,Argentina,America
+23256,Concordia,Argentina,America
+23268,Comodoro Rivadavia,Argentina,America
+23280,San Nicolas,Argentina,America
+23292,San Martin,Argentina,America
+23328,Tandil,Argentina,America
+23340,San Carlos de Bariloche,Argentina,America
+23352,Trelew,Argentina,America
+23364,Villa Maria,Argentina,America
+23376,Reconquista,Argentina,America
+23388,Zarate,Argentina,America
+23400,Rafaela,Argentina,America
+23412,Pergamino,Argentina,America
+23424,Olavarria,Argentina,America
+23436,Rio Gallegos,Argentina,America
+23448,Junin,Argentina,America
+23460,Presidencia Roque Saenz Pena,Argentina,America
+23472,Lujan,Argentina,America
+23484,Campana,Argentina,America
+23496,Necochea,Argentina,America
+23508,Gualeguaychu,Argentina,America
+23520,San Ramon de la Nueva Oran,Argentina,America
+23532,General Roca,Argentina,America
+23544,Venado Tuerto,Argentina,America
+23556,Goya,Argentina,America
+23568,Villa Carlos Paz,Argentina,America
+23580,Concepcion del Uruguay,Argentina,America
+23592,Las Heras,Argentina,America
+23604,Puerto Madryn,Argentina,America
+23616,Tartagal,Argentina,America
+23628,Viedma,Argentina,America
+23652,San Pedro,Argentina,America
+23664,Ushuaia,Argentina,America
+23676,Punta Alta,Argentina,America
+23688,General Pico,Argentina,America
+23700,Chivilcoy,Argentina,America
+23712,Azul,Argentina,America
+23724,Rio Tercero,Argentina,America
+23736,Mercedes,Argentina,America
+23748,Karachi,Pakistan,Asia
+23760,Lahore,Pakistan,Asia
+23772,Faisalabad,Pakistan,Asia
+23784,Saidu,Pakistan,Asia
+23796,Rawalpindi,Pakistan,Asia
+23808,Multan,Pakistan,Asia
+23820,Gujranwala,Pakistan,Asia
+23844,Peshawar,Pakistan,Asia
+23856,Abbottabad,Pakistan,Asia
+23868,Islamabad,Pakistan,Asia
+23880,Quetta,Pakistan,Asia
+23892,Bannu,Pakistan,Asia
+23904,Bahawalpur,Pakistan,Asia
+23916,Sargodha,Pakistan,Asia
+23928,Sialkote,Pakistan,Asia
+23940,Sukkur,Pakistan,Asia
+23952,Larkana,Pakistan,Asia
+23964,Sheikhu Pura,Pakistan,Asia
+23976,Mirput Khas,Pakistan,Asia
+23988,Rahim Yar Khan,Pakistan,Asia
+24000,Kohat,Pakistan,Asia
+24012,Jhang,Pakistan,Asia
+24024,Gujrat,Pakistan,Asia
+24036,Mardan,Pakistan,Asia
+24048,Kasur,Pakistan,Asia
+24060,Dera Ghazi Khan,Pakistan,Asia
+24072,Sahiwal,Pakistan,Asia
+24084,Nawabshah,Pakistan,Asia
+24096,Okara,Pakistan,Asia
+24108,Gilgit,Pakistan,Asia
+24120,Chiniot,Pakistan,Asia
+24132,Sadiqabad,Pakistan,Asia
+24144,Turbat,Pakistan,Asia
+24156,Dera Ismail Khan,Pakistan,Asia
+24168,Chaman,Pakistan,Asia
+24180,Zhob,Pakistan,Asia
+24192,Mansehra,Pakistan,Asia
+24204,Parachinar,Pakistan,Asia
+24216,Gwadar,Pakistan,Asia
+24228,Cairo,Egypt,Africa
+24252,El Giza,Egypt,Africa
+24264,Ismailia,Egypt,Africa
+24276,Bur Said,Egypt,Africa
+24288,Luxor,Egypt,Africa
+24300,El Mansura,Egypt,Africa
+24312,Sohag,Egypt,Africa
+24324,Suez,Egypt,Africa
+24336,El Minya,Egypt,Africa
+24348,Damanhûr,Egypt,Africa
+24360,Beni Suef,Egypt,Africa
+24372,Asyut,Egypt,Africa
+24384,Tanta,Egypt,Africa
+24396,El Faiyum,Egypt,Africa
+24408,Aswan,Egypt,Africa
+24420,Kom Ombo,Egypt,Africa
+24432,Qena,Egypt,Africa
+24444,Dumyat,Egypt,Africa
+24456,Zagazig,Egypt,Africa
+24468,Mallawi,Egypt,Africa
+24480,Rashid,Egypt,Africa
+24492,Shibin el Kom,Egypt,Africa
+24504,El Arish,Egypt,Africa
+24516,Benha,Egypt,Africa
+24528,Hurghada,Egypt,Africa
+24540,Samalut,Egypt,Africa
+24552,Kafr el Sheikh,Egypt,Africa
+24564,Girga,Egypt,Africa
+24576,Matruh,Egypt,Africa
+24588,Isna,Egypt,Africa
+24600,Beni Mazar,Egypt,Africa
+24612,Manila,Philippines,Asia
+24624,Quezon City,Philippines,Asia
+24636,Davao,Philippines,Asia
+24648,Cagayan de Oro,Philippines,Asia
+24660,General Santos,Philippines,Asia
+24672,Bacolod,Philippines,Asia
+24684,Cebu,Philippines,Asia
+24696,Zamboanga,Philippines,Asia
+24708,Naga,Philippines,Asia
+24720,Iligan,Philippines,Asia
+24732,Baguio City,Philippines,Asia
+24744,Batangas,Philippines,Asia
+24756,Pasay City,Philippines,Asia
+24768,Iloilo,Philippines,Asia
+24780,Legazpi,Philippines,Asia
+24792,Angeles,Philippines,Asia
+24804,Olongapo,Philippines,Asia
+24816,Cadiz,Philippines,Asia
+24828,Tacloban,Philippines,Asia
+24840,Cotabato,Philippines,Asia
+24852,San Pablo,Philippines,Asia
+24864,Cabanatuan,Philippines,Asia
+24876,Laoag,Philippines,Asia
+24888,Butuan,Philippines,Asia
+24900,Tarlac,Philippines,Asia
+24912,Ormac,Philippines,Asia
+24924,Dagupan,Philippines,Asia
+24936,Pagadian,Philippines,Asia
+24948,Puerto Princesa,Philippines,Asia
+24960,Tuguegarao,Philippines,Asia
+24972,Roxas,Philippines,Asia
+24984,Ozamis,Philippines,Asia
+24996,Surigao,Philippines,Asia
+25008,Calbayog,Philippines,Asia
+25020,Istanbul,Turkey,Europe
+25032,Ankara,Turkey,Europe
+25044,İzmir,Turkey,Europe
+25056,Bursa,Turkey,Europe
+25068,Adana,Turkey,Europe
+25080,Gaziantep,Turkey,Europe
+25092,Konya,Turkey,Europe
+25104,Tarsus,Turkey,Europe
+25116,Antalya,Turkey,Europe
+25128,Trabzon,Turkey,Europe
+25140,Diyarbakir,Turkey,Europe
+25152,Samsun,Turkey,Europe
+25164,Kayseri,Turkey,Europe
+25176,Eskişehir,Turkey,Europe
+25188,İzmit,Turkey,Europe
+25200,Malatya,Turkey,Europe
+25212,Şanliurfa,Turkey,Europe
+25224,Erzurum,Turkey,Europe
+25236,Kahramanmaraş,Turkey,Europe
+25248,Denizli,Turkey,Europe
+25260,Van,Turkey,Europe
+25272,Hatay,Turkey,Europe
+25284,Batman,Turkey,Europe
+25296,İskenderun,Turkey,Europe
+25308,Rize,Turkey,Europe
+25320,Elazig,Turkey,Europe
+25332,Sivas,Turkey,Europe
+25344,Balikesir,Turkey,Europe
+25356,Adapazari,Turkey,Europe
+25368,Manisa,Turkey,Europe
+25380,Adiyaman,Turkey,Europe
+25392,Kirikkale,Turkey,Europe
+25404,Aydin,Turkey,Europe
+25416,Kutahya,Turkey,Europe
+25428,Corum,Turkey,Europe
+25440,Isparta,Turkey,Europe
+25452,Afyon,Turkey,Europe
+25464,Zonguldak,Turkey,Europe
+25476,Ordu,Turkey,Europe
+25488,Uşak,Turkey,Europe
+25500,Nusaybin,Turkey,Europe
+25512,Tokat,Turkey,Europe
+25524,Erzincan,Turkey,Europe
+25536,Karabuk,Turkey,Europe
+25548,Edirne,Turkey,Europe
+25560,Tekirdag,Turkey,Europe
+25572,Karaman,Turkey,Europe
+25584,Siirt,Turkey,Europe
+25596,Giresun,Turkey,Europe
+25608,Bafra,Turkey,Europe
+25620,Bolu,Turkey,Europe
+25632,Kirşehir,Turkey,Europe
+25644,Samandagi,Turkey,Europe
+25656,Polatli,Turkey,Europe
+25668,Eregli,Turkey,Europe
+25680,Nigde,Turkey,Europe
+25692,Luleburgaz,Turkey,Europe
+25704,Yozgat,Turkey,Europe
+25716,Agri,Turkey,Europe
+25728,Çanakkale,Turkey,Europe
+25740,Amasya,Turkey,Europe
+25752,Muş,Turkey,Europe
+25764,Kilis,Turkey,Europe
+25776,Bingol,Turkey,Europe
+25788,Hakkari,Turkey,Europe
+25800,Kars,Turkey,Europe
+25812,Soke,Turkey,Europe
+25824,Nevşehir,Turkey,Europe
+25836,Tatvan,Turkey,Europe
+25848,Çankiri,Turkey,Europe
+25860,Mardin,Turkey,Europe
+25872,Kastamonu,Turkey,Europe
+25884,Burdur,Turkey,Europe
+25896,Bitlis,Turkey,Europe
+25908,Kirklareli,Turkey,Europe
+25920,Paris,France,Europe
+25932,Lyon,France,Europe
+25944,Marseille,France,Europe
+25956,Lille,France,Europe
+25968,Nice,France,Europe
+25980,Toulouse,France,Europe
+25992,Bordeaux,France,Europe
+26004,Rouen,France,Europe
+26016,Strasbourg,France,Europe
+26028,Nantes,France,Europe
+26040,Metz,France,Europe
+26052,Grenoble,France,Europe
+26064,Toulon,France,Europe
+26076,Montpellier,France,Europe
+26088,Nancy,France,Europe
+26100,Saint-Étienne,France,Europe
+26112,Melun,France,Europe
+26124,Le Havre,France,Europe
+26136,Tours,France,Europe
+26148,Clermont-Ferrand,France,Europe
+26160,Orleans,France,Europe
+26172,Mulhouse,France,Europe
+26184,Rennes,France,Europe
+26196,Reims,France,Europe
+26208,Caen,France,Europe
+26220,Angers,France,Europe
+26232,Dijon,France,Europe
+26244,Nîmes,France,Europe
+26256,Limoges,France,Europe
+26268,Aix-en-Provence,France,Europe
+26280,Perpignan,France,Europe
+26292,Biarritz,France,Europe
+26304,Brest,France,Europe
+26316,Le Mans,France,Europe
+26328,Amiens,France,Europe
+26340,Besancon,France,Europe
+26352,Annecy,France,Europe
+26364,Calais,France,Europe
+26376,Poitier,France,Europe
+26388,Versailles,France,Europe
+26400,Lorient,France,Europe
+26412,Beziers,France,Europe
+26424,La Rochelle,France,Europe
+26436,Roanne,France,Europe
+26448,Bourges,France,Europe
+26460,Arras,France,Europe
+26472,Troyes,France,Europe
+26484,Cherbourg,France,Europe
+26496,Agen,France,Europe
+26508,Brive,France,Europe
+26520,Tarbes,France,Europe
+26532,Ajaccio,France,Europe
+26544,St.-Brieuc,France,Europe
+26556,Lagos,Nigeria,Africa
+26568,Kano,Nigeria,Africa
+26580,Ibadan,Nigeria,Africa
+26592,Abuja,Nigeria,Africa
+26604,Kaduna,Nigeria,Africa
+26616,Benin City,Nigeria,Africa
+26628,Ikare,Nigeria,Africa
+26640,Port Harcourt,Nigeria,Africa
+26652,Ogbomosho,Nigeria,Africa
+26664,Aba,Nigeria,Africa
+26676,Maiduguri,Nigeria,Africa
+26688,Zaria,Nigeria,Africa
+26700,Warri,Nigeria,Africa
+26712,Jos,Nigeria,Africa
+26724,Ilorin,Nigeria,Africa
+26736,Oyo,Nigeria,Africa
+26748,Sokoto,Nigeria,Africa
+26760,Enugu,Nigeria,Africa
+26772,Abeokuta,Nigeria,Africa
+26784,Uyo,Nigeria,Africa
+26796,Awka,Nigeria,Africa
+26808,Ife,Nigeria,Africa
+26820,Calabar,Nigeria,Africa
+26832,Ado Ekiti,Nigeria,Africa
+26844,Katsina,Nigeria,Africa
+26856,Akure,Nigeria,Africa
+26868,Oshogbo,Nigeria,Africa
+26880,Bauchi,Nigeria,Africa
+26892,Sapele,Nigeria,Africa
+26904,Makurdi,Nigeria,Africa
+26916,Minna,Nigeria,Africa
+26928,Owo,Nigeria,Africa
+26940,Gombe,Nigeria,Africa
+26952,Umuahia,Nigeria,Africa
+26964,Ondo,Nigeria,Africa
+26976,Damaturu,Nigeria,Africa
+26988,Iwo,Nigeria,Africa
+27000,Gusau,Nigeria,Africa
+27012,Mubi,Nigeria,Africa
+27024,Owerri,Nigeria,Africa
+27036,Ijebu Ode,Nigeria,Africa
+27048,Funtua,Nigeria,Africa
+27060,Bida,Nigeria,Africa
+27072,Lafia,Nigeria,Africa
+27084,Gashua,Nigeria,Africa
+27096,Bama,Nigeria,Africa
+27108,Jalingo,Nigeria,Africa
+27120,Nsukka,Nigeria,Africa
+27132,Nguru,Nigeria,Africa
+27144,Birnin Kebbi,Nigeria,Africa
+27156,Azare,Nigeria,Africa
+27168,Kontagora,Nigeria,Africa
+27180,Iseyin,Nigeria,Africa
+27192,Yola,Nigeria,Africa
+27204,Biu,Nigeria,Africa
+27216,Wukari,Nigeria,Africa
+27228,Potiskum,Nigeria,Africa
+27240,Keffi,Nigeria,Africa
+27252,Numan,Nigeria,Africa
+27264,Idah,Nigeria,Africa
+27276,Onitsha,Nigeria,Africa
+27288,Oturkpo,Nigeria,Africa
+27300,Lokoja,Nigeria,Africa
+27312,Jakarta,Indonesia,Asia
+27324,Surabaya,Indonesia,Asia
+27336,Bandung,Indonesia,Asia
+27348,Bekasi,Indonesia,Asia
+27360,Medan,Indonesia,Asia
+27372,Palembang,Indonesia,Asia
+27384,Semarang,Indonesia,Asia
+27396,Ujungpandang,Indonesia,Asia
+27408,Cilacap,Indonesia,Asia
+27420,Bogor,Indonesia,Asia
+27432,Bandar Lampung,Indonesia,Asia
+27444,Padang,Indonesia,Asia
+27456,Malang,Indonesia,Asia
+27468,Pekanbaru,Indonesia,Asia
+27480,Denpasar,Indonesia,Asia
+27492,Yogyakarta,Indonesia,Asia
+27504,Palu,Indonesia,Asia
+27516,Pontianak,Indonesia,Asia
+27528,Bandjarmasin,Indonesia,Asia
+27540,Samarinda,Indonesia,Asia
+27552,Binjai,Indonesia,Asia
+27564,Surakarta,Indonesia,Asia
+27576,Banda Aceh,Indonesia,Asia
+27588,Bukittinggi,Indonesia,Asia
+27600,Pasuruan,Indonesia,Asia
+27612,Mataram,Indonesia,Asia
+27624,Jambi,Indonesia,Asia
+27636,Manado,Indonesia,Asia
+27648,Balikpapan,Indonesia,Asia
+27660,Bengkulu,Indonesia,Asia
+27672,Gorontalo,Indonesia,Asia
+27684,Ambon,Indonesia,Asia
+27696,Pematangsiantar,Indonesia,Asia
+27708,Jember,Indonesia,Asia
+27720,Kupang,Indonesia,Asia
+27732,Sukabumi,Indonesia,Asia
+27744,Majene,Indonesia,Asia
+27756,Pakalongan,Indonesia,Asia
+27768,Tasikmalaya,Indonesia,Asia
+27780,Tebingtinggi,Indonesia,Asia
+27792,Padangsidempuan,Indonesia,Asia
+27804,Cirebon,Indonesia,Asia
+27816,Singkawang,Indonesia,Asia
+27828,Tegal,Indonesia,Asia
+27840,Kediri,Indonesia,Asia
+27852,Singaraja,Indonesia,Asia
+27864,Tanjungpinang,Indonesia,Asia
+27876,Sibolga,Indonesia,Asia
+27888,Martapura,Indonesia,Asia
+27900,Tarakan,Indonesia,Asia
+27912,Ternate,Indonesia,Asia
+27924,Madiun,Indonesia,Asia
+27936,Pinrang,Indonesia,Asia
+27948,Probolinggo,Indonesia,Asia
+27960,Salatiga,Indonesia,Asia
+27972,Banyuwangi,Indonesia,Asia
+27984,Jayapura,Indonesia,Asia
+27996,Kendari,Indonesia,Asia
+28008,Serang,Indonesia,Asia
+28020,Palangkaraya,Indonesia,Asia
+28032,Lhokseumawe,Indonesia,Asia
+28044,Blitar,Indonesia,Asia
+28056,Pangkalpinang,Indonesia,Asia
+28068,Sorong,Indonesia,Asia
+28080,Indramayu,Indonesia,Asia
+28092,Pati,Indonesia,Asia
+28104,Langsa,Indonesia,Asia
+28116,Mojokerto,Indonesia,Asia
+28128,Magelang,Indonesia,Asia
+28140,Raba,Indonesia,Asia
+28152,Maumere,Indonesia,Asia
+28164,Biak,Indonesia,Asia
+28176,Perabumulih,Indonesia,Asia
+28188,Bontang,Indonesia,Asia
+28200,Sungaipenuh,Indonesia,Asia
+28212,Sampit,Indonesia,Asia
+28224,Parepare,Indonesia,Asia
+28236,Sumenep,Indonesia,Asia
+28248,Watampone,Indonesia,Asia
+28260,Ende,Indonesia,Asia
+28272,Tuban,Indonesia,Asia
+28284,Manokwari,Indonesia,Asia
+28296,Lahat,Indonesia,Asia
+28308,Tanjungpandan,Indonesia,Asia
+28320,Tidore,Indonesia,Asia
+28332,Ruteng,Indonesia,Asia
+28344,Sawahlunto,Indonesia,Asia
+28356,London,United Kingdom,Europe
+28392,Leeds,United Kingdom,Europe
+28404,Sheffield,United Kingdom,Europe
+28416,Glasgow,United Kingdom,Europe
+28428,Newcastle,United Kingdom,Europe
+28440,Cardiff,United Kingdom,Europe
+28452,Nottingham,United Kingdom,Europe
+28464,Liverpool,United Kingdom,Europe
+28476,Southend-on-Sea,United Kingdom,Europe
+28500,Edinburgh,United Kingdom,Europe
+28512,Brighton,United Kingdom,Europe
+28524,Bradford,United Kingdom,Europe
+28536,Leicester,United Kingdom,Europe
+28548,Sunderland,United Kingdom,Europe
+28560,Belfast,United Kingdom,Europe
+28584,Bournemouth,United Kingdom,Europe
+28596,Middlesbrough,United Kingdom,Europe
+28608,Stoke,United Kingdom,Europe
+28620,Coventry,United Kingdom,Europe
+28632,Southampton,United Kingdom,Europe
+28656,Kingston upon Hull,United Kingdom,Europe
+28668,Swansea,United Kingdom,Europe
+28680,Blackpool,United Kingdom,Europe
+28704,Luton,United Kingdom,Europe
+28716,Oxford,United Kingdom,Europe
+28740,Aberdeen,United Kingdom,Europe
+28764,Dundee,United Kingdom,Europe
+28776,Ipswich,United Kingdom,Europe
+28788,Peterborough,United Kingdom,Europe
+28812,Exeter,United Kingdom,Europe
+28824,Bath,United Kingdom,Europe
+28836,Chester,United Kingdom,Europe
+28848,Londonderry,United Kingdom,Europe
+28860,Greenock,United Kingdom,Europe
+28872,Carlisle,United Kingdom,Europe
+28884,Scarborough,United Kingdom,Europe
+28896,Ayr,United Kingdom,Europe
+28920,Callao,Peru,America
+28932,Arequipa,Peru,America
+28944,Trujillo,Peru,America
+28956,Chiclayo,Peru,America
+28968,Iquitos,Peru,America
+28980,Huancayo,Peru,America
+28992,Piura,Peru,America
+29004,Cusco,Peru,America
+29016,Chimbote,Peru,America
+29028,Pucallpa,Peru,America
+29040,Tacna,Peru,America
+29052,Ica,Peru,America
+29064,Juliaca,Peru,America
+29076,Ayacucho,Peru,America
+29088,Sullana,Peru,America
+29100,Huanuco,Peru,America
+29112,Chincha Alta,Peru,America
+29124,Cajamarca,Peru,America
+29136,Cerro de Pasco,Peru,America
+29148,Puno,Peru,America
+29160,Tumbes,Peru,America
+29172,Talara,Peru,America
+29184,Chosica,Peru,America
+29196,Huaraz,Peru,America
+29208,Pisco,Peru,America
+29220,Huacho,Peru,America
+29232,Chulucanas,Peru,America
+29244,Puerto Maldonado,Peru,America
+29256,Paita,Peru,America
+29268,Abancay,Peru,America
+29280,Moquegua,Peru,America
+29292,Ilo,Peru,America
+29304,Tingo Maria,Peru,America
+29316,Jaen,Peru,America
+29328,Tarma,Peru,America
+29340,Ferrenafe,Peru,America
+29352,Tehran,Iran,Asia
+29364,Mashhad,Iran,Asia
+29376,Isfahan,Iran,Asia
+29388,Karaj,Iran,Asia
+29400,Tabriz,Iran,Asia
+29412,Shiraz,Iran,Asia
+29424,Ahvaz,Iran,Asia
+29436,Qom,Iran,Asia
+29448,Kermanshah,Iran,Asia
+29460,Zahedan,Iran,Asia
+29472,Rasht,Iran,Asia
+29484,Kerman,Iran,Asia
+29496,Urmia,Iran,Asia
+29508,Hamadan,Iran,Asia
+29520,Arak,Iran,Asia
+29532,Yazd,Iran,Asia
+29544,Qazvin,Iran,Asia
+29556,Bandar-e-Abbas,Iran,Asia
+29568,Khomeini Shahr,Iran,Asia
+29580,Ardabil,Iran,Asia
+29592,Khorramabad,Iran,Asia
+29604,Abadan,Iran,Asia
+29616,Zanjan,Iran,Asia
+29628,Sanandaj,Iran,Asia
+29640,Birjand,Iran,Asia
+29652,Dezful,Iran,Asia
+29664,Gorgan,Iran,Asia
+29676,Sari,Iran,Asia
+29688,Borujerd,Iran,Asia
+29700,Kashan,Iran,Asia
+29712,Zabol,Iran,Asia
+29724,Sabzewar,Iran,Asia
+29736,Neyshabur,Iran,Asia
+29748,Amol,Iran,Asia
+29760,Bojnurd,Iran,Asia
+29772,Khvoy,Iran,Asia
+29784,Varamin,Iran,Asia
+29796,Malayer,Iran,Asia
+29808,Saveh,Iran,Asia
+29820,Sirjan,Iran,Asia
+29832,Bandar-e Bushehr,Iran,Asia
+29844,Mahabad,Iran,Asia
+29856,Gonbad-e Kavus,Iran,Asia
+29868,Kashmar,Iran,Asia
+29880,Masjed Soleyman,Iran,Asia
+29892,Ilam,Iran,Asia
+29904,Maragheh,Iran,Asia
+29916,Quchan,Iran,Asia
+29928,Shahrud,Iran,Asia
+29940,Shar e Kord,Iran,Asia
+29952,Marv Dasht,Iran,Asia
+29964,Semnan,Iran,Asia
+29976,Fasa,Iran,Asia
+29988,Qomsheh,Iran,Asia
+30000,Torbat-e Jam,Iran,Asia
+30012,Ahar,Iran,Asia
+30024,Bam,Iran,Asia
+30036,Yasuj,Iran,Asia
+30048,Behbehan,Iran,Asia
+30060,Chabahar,Iran,Asia
+30072,Bijar,Iran,Asia
+30084,Bogota,Colombia,America
+30096,Medellin,Colombia,America
+30108,Cali,Colombia,America
+30120,Barranquilla,Colombia,America
+30132,Bucaramanga,Colombia,America
+30144,Cartagena,Colombia,America
+30156,Cucuta,Colombia,America
+30168,Soledad,Colombia,America
+30180,Pereira,Colombia,America
+30192,Bello,Colombia,America
+30204,Santa Marta,Colombia,America
+30216,Ibague,Colombia,America
+30228,Pasto,Colombia,America
+30240,Manizales,Colombia,America
+30252,Villavicencio,Colombia,America
+30264,Neiva,Colombia,America
+30276,Armenia,Colombia,America
+30288,Valledupar,Colombia,America
+30300,Monteria,Colombia,America
+30312,Sincelejo,Colombia,America
+30324,Popayan,Colombia,America
+30336,Buenaventura,Colombia,America
+30348,Barrancabermeja,Colombia,America
+30360,Tulua,Colombia,America
+30372,Tunja,Colombia,America
+30384,Cartago,Colombia,America
+30396,Riohacha,Colombia,America
+30408,Cienaga,Colombia,America
+30420,Florencia,Colombia,America
+30432,Girardot,Colombia,America
+30444,Sogamoso,Colombia,America
+30456,Ipiales,Colombia,America
+30468,Duitama,Colombia,America
+30480,Magangue,Colombia,America
+30492,Quibdo,Colombia,America
+30504,Tumaco,Colombia,America
+30516,Ocana,Colombia,America
+30528,Arauca,Colombia,America
+30540,Sabanalarga,Colombia,America
+30552,Yopal,Colombia,America
+30564,El Carmen de Bolivar,Colombia,America
+30576,Leticia,Colombia,America
+30588,San Andres,Colombia,America
+30600,Garzon,Colombia,America
+30612,El Banco,Colombia,America
+30624,Chiquinquira,Colombia,America
+30636,Pamplona,Colombia,America
+30648,Lorica,Colombia,America
+30660,Turbo,Colombia,America
+30672,Arjona,Colombia,America
+30684,Taipei,Taiwan,Asia
+30696,Kaohsiung,Taiwan,Asia
+30708,Taichung,Taiwan,Asia
+30720,Tainan,Taiwan,Asia
+30732,Zhongli,Taiwan,Asia
+30744,Changhua,Taiwan,Asia
+30756,Hsinchu,Taiwan,Asia
+30768,Pingtung,Taiwan,Asia
+30780,Taoyuan,Taiwan,Asia
+30792,Chiayi,Taiwan,Asia
+30804,Keelung,Taiwan,Asia
+30816,Hualien,Taiwan,Asia
+30828,Pingzhen,Taiwan,Asia
+30840,Zhubei,Taiwan,Asia
+30852,Yangmei,Taiwan,Asia
+30864,Taitung,Taiwan,Asia
+30876,Bade,Taiwan,Asia
+30888,Nantou,Taiwan,Asia
+30900,Miaoli,Taiwan,Asia
+30912,Yilan,Taiwan,Asia
+30924,Douliou,Taiwan,Asia
+30936,Magong,Taiwan,Asia
+30948,Puzi,Taiwan,Asia
+30960,Bangkok,Thailand,Asia
+30972,Chiang Mai,Thailand,Asia
+30984,Samut Prakan,Thailand,Asia
+30996,Nakhon Ratchasima,Thailand,Asia
+31008,Hat Yai,Thailand,Asia
+31020,Ubon Ratchathani,Thailand,Asia
+31032,Nonthaburi,Thailand,Asia
+31044,Khon Kaen,Thailand,Asia
+31056,Udon Thani,Thailand,Asia
+31068,Nakhon Si Thammarat,Thailand,Asia
+31080,Chon Buri,Thailand,Asia
+31092,Lampang,Thailand,Asia
+31104,Si Racha,Thailand,Asia
+31116,Phitsanulok,Thailand,Asia
+31128,Surat Thani,Thailand,Asia
+31140,Pathum Thani,Thailand,Asia
+31152,Pattani,Thailand,Asia
+31164,Yala,Thailand,Asia
+31176,Trang,Thailand,Asia
+31188,Ayutthaya,Thailand,Asia
+31200,Phuket,Thailand,Asia
+31212,Nakhon Pathom,Thailand,Asia
+31224,Chiang Rai,Thailand,Asia
+31236,Nakhon Sawan,Thailand,Asia
+31248,Ratchaburi,Thailand,Asia
+31260,Nong Khai,Thailand,Asia
+31272,Chanthaburi,Thailand,Asia
+31284,Phetchaburi,Thailand,Asia
+31296,Chumphon,Thailand,Asia
+31308,Nan,Thailand,Asia
+31320,Prachin Buri,Thailand,Asia
+31332,Uttaradit,Thailand,Asia
+31344,Sakhon Nakhon,Thailand,Asia
+31356,Saraburi,Thailand,Asia
+31368,Narathiwat,Thailand,Asia
+31380,Kanchanaburi,Thailand,Asia
+31392,Samut Sakhon,Thailand,Asia
+31404,Surin,Thailand,Asia
+31416,Kamphaeng Phet,Thailand,Asia
+31428,Chaiyaphum,Thailand,Asia
+31440,Lop Buri,Thailand,Asia
+31452,Nakhon Phanom,Thailand,Asia
+31464,Kalasin,Thailand,Asia
+31476,Supham Buri,Thailand,Asia
+31488,Maha Sarakham,Thailand,Asia
+31500,Phetchabun,Thailand,Asia
+31512,Hua Hin,Thailand,Asia
+31524,Santiago,Chile,America
+31536,Concepcion,Chile,America
+31548,Valparaiso,Chile,America
+31560,Vina del Mar,Chile,America
+31572,Antofagasta,Chile,America
+31584,Talcahuano,Chile,America
+31596,Temuco,Chile,America
+31608,San Bernardo,Chile,America
+31620,Rancagua,Chile,America
+31632,Iquique,Chile,America
+31644,Talca,Chile,America
+31656,Arica,Chile,America
+31668,Puerto Montt,Chile,America
+31680,Coquimbo,Chile,America
+31692,Valdivia,Chile,America
+31704,La Serena,Chile,America
+31716,Osorno,Chile,America
+31728,Chillan,Chile,America
+31752,Calama,Chile,America
+31764,Copiapo,Chile,America
+31776,Punta Arenas,Chile,America
+31788,Curico,Chile,America
+31812,Coronel,Chile,America
+31836,Quillota,Chile,America
+31848,Ovalle,Chile,America
+31860,San Fernando,Chile,America
+31872,San Felipe,Chile,America
+31884,Los Andes,Chile,America
+31896,Madrid,Spain,Europe
+31908,Barcelona,Spain,Europe
+31920,Seville,Spain,Europe
+31932,Bilbao,Spain,Europe
+31944,Valencia,Spain,Europe
+31956,Zaragoza,Spain,Europe
+31968,Malaga,Spain,Europe
+31980,Murcia,Spain,Europe
+31992,Granada‎,Spain,Europe
+32004,Vigo,Spain,Europe
+32016,Las Palmas,Spain,Europe
+32028,Palma,Spain,Europe
+32040,La Coruna,Spain,Europe
+32052,San Sebastian,Spain,Europe
+32064,Santa Cruz de Tenerife,Spain,Europe
+32076,Gijon,Spain,Europe
+32088,Valladolid,Spain,Europe
+32112,Alicante,Spain,Europe
+32124,Cadiz,Spain,Europe
+32148,Oviedo,Spain,Europe
+32160,Vitoria,Spain,Europe
+32172,Santander,Spain,Europe
+32196,Marbella,Spain,Europe
+32208,Mataro,Spain,Europe
+32220,Castello,Spain,Europe
+32232,Almeria,Spain,Europe
+32244,Burgos,Spain,Europe
+32268,Albacete,Spain,Europe
+32280,Huelva,Spain,Europe
+32292,Logrono,Spain,Europe
+32304,Melilla,Spain,Europe
+32316,Badajoz,Spain,Europe
+32340,Tarragona,Spain,Europe
+32352,Ourense,Spain,Europe
+32376,Algeciras,Spain,Europe
+32388,Santiago de Compostela,Spain,Europe
+32400,Lorca,Spain,Europe
+32412,Ceuta,Spain,Europe
+32460,Arrecife,Spain,Europe
+32484,Ho Chi Minh City,Vietnam,Asia
+32496,Hanoi,Vietnam,Asia
+32508,Haiphong,Vietnam,Asia
+32520,Can Tho,Vietnam,Asia
+32532,Da Nang,Vietnam,Asia
+32544,Hue,Vietnam,Asia
+32556,Qui Nhon,Vietnam,Asia
+32568,Bien Hoa,Vietnam,Asia
+32580,Vinh,Vietnam,Asia
+32592,Thai Nguyen,Vietnam,Asia
+32604,Nha Trang,Vietnam,Asia
+32616,Ca Mau,Vietnam,Asia
+32628,Long Xuyen,Vietnam,Asia
+32640,Việt Tri,Vietnam,Asia
+32652,Buon Me Thuot,Vietnam,Asia
+32664,Phan Thiet,Vietnam,Asia
+32676,Rạch Gia,Vietnam,Asia
+32688,Soc Trăng,Vietnam,Asia
+32700,Da Lat,Vietnam,Asia
+32712,Quảng Ngai,Vietnam,Asia
+32724,Vung Tau,Vietnam,Asia
+32736,Thu Dau Mot,Vietnam,Asia
+32748,Nam Định,Vietnam,Asia
+32760,Bạc Lieu,Vietnam,Asia
+32772,Thai Binh,Vietnam,Asia
+32784,Thanh Hoa,Vietnam,Asia
+32796,Sơn Tay,Vietnam,Asia
+32808,Đồng Hới,Vietnam,Asia
+32820,Phan Rang,Vietnam,Asia
+32832,Hong Gai,Vietnam,Asia
+32844,Ha Tĩnh,Vietnam,Asia
+32856,Cao Lanh,Vietnam,Asia
+32868,Lạng Sơn,Vietnam,Asia
+32880,Cam Ranh,Vietnam,Asia
+32892,Play Ku,Vietnam,Asia
+32904,Tan An,Vietnam,Asia
+32916,Cẩm Phả,Vietnam,Asia
+32928,Tra Vinh,Vietnam,Asia
+32940,Ninh Binh,Vietnam,Asia
+32952,Tay Ninh,Vietnam,Asia
+32964,Mỹ Tho,Vietnam,Asia
+32976,Kon Tum,Vietnam,Asia
+32988,Hoa Binh,Vietnam,Asia
+33000,Vĩnh Long,Vietnam,Asia
+33012,Yen Bai,Vietnam,Asia
+33024,Quảng Trị,Vietnam,Asia
+33036,Chau Đốc,Vietnam,Asia
+33048,Tuy Hoa,Vietnam,Asia
+33060,Lao Chi,Vietnam,Asia
+33072,Truc Giang,Vietnam,Asia
+33084,Hai Duong,Vietnam,Asia
+33096,Bắc Giang,Vietnam,Asia
+33108,Toronto,Canada,America
+33120,Montreal,Canada,America
+33144,Ottawa,Canada,America
+33156,Calgary,Canada,America
+33168,Edmonton,Canada,America
+33192,Winnipeg,Canada,America
+33204,Quebec,Canada,America
+33216,Oshawa,Canada,America
+33228,Kitchener,Canada,America
+33240,Halifax,Canada,America
+33264,Windsor,Canada,America
+33288,Saskatoon,Canada,America
+33300,Barrie,Canada,America
+33312,Regina,Canada,America
+33324,Sudbury,Canada,America
+33336,Abbotsford,Canada,America
+33348,Sarnia,Canada,America
+33360,Sherbrooke,Canada,America
+33372,St. John's,Canada,America
+33384,Kelowna,Canada,America
+33396,Trois-Rivieres,Canada,America
+33420,Thunder Bay,Canada,America
+33432,Moncton,Canada,America
+33444,Saint John,Canada,America
+33456,Nanaimo,Canada,America
+33480,St.-Jerome,Canada,America
+33492,Red Deer,Canada,America
+33504,Lethbridge,Canada,America
+33516,Kamloops,Canada,America
+33528,Prince George,Canada,America
+33540,Medicine Hat,Canada,America
+33552,Drummondville,Canada,America
+33564,Chicoutimi,Canada,America
+33576,Fredericton,Canada,America
+33588,Chilliwack,Canada,America
+33600,North Bay,Canada,America
+33612,Singapore,Singapore,Asia
+33624,Luanda,Angola,Africa
+33636,Huambo,Angola,Africa
+33648,Lobito,Angola,Africa
+33660,Benguela,Angola,Africa
+33672,Namibe,Angola,Africa
+33684,Malanje,Angola,Africa
+33696,Lubango,Angola,Africa
+33708,Kuito,Angola,Africa
+33720,Cabinda,Angola,Africa
+33732,Capenda-Camulemba,Angola,Africa
+33744,Soyo,Angola,Africa
+33756,Mbanza-Congo,Angola,Africa
+33768,Uige,Angola,Africa
+33780,Baghdad,Iraq,Asia
+33792,Mosul,Iraq,Asia
+33804,Dahuk,Iraq,Asia
+33816,Irbil,Iraq,Asia
+33828,Basra,Iraq,Asia
+33840,As Sulaymaniyah,Iraq,Asia
+33852,An Najaf,Iraq,Asia
+33864,Kirkuk,Iraq,Asia
+33876,Al Hillah,Iraq,Asia
+33888,Karbala,Iraq,Asia
+33900,An Nasiriyah,Iraq,Asia
+33912,Ad Diwaniyah,Iraq,Asia
+33924,Al Amarah,Iraq,Asia
+33936,Al Kut,Iraq,Asia
+33948,Baqubah,Iraq,Asia
+33960,Ar Ramadi,Iraq,Asia
+33972,Az Aubayr,Iraq,Asia
+33984,Al Fallujah,Iraq,Asia
+33996,As Samawah,Iraq,Asia
+34008,Ash Shatrah,Iraq,Asia
+34020,Samarra,Iraq,Asia
+34032,Tall Afar,Iraq,Asia
+34044,Zakho,Iraq,Asia
+34056,Al Musayyib,Iraq,Asia
+34068,Tikrit,Iraq,Asia
+34080,Khartoum,Sudan,Africa
+34092,Omdurman,Sudan,Africa
+34104,Port Sudan,Sudan,Africa
+34116,Kassala,Sudan,Africa
+34128,El Obeid,Sudan,Africa
+34140,Niyala,Sudan,Africa
+34152,Kosti,Sudan,Africa
+34164,Medani,Sudan,Africa
+34176,El Fasher,Sudan,Africa
+34188,Gedaref,Sudan,Africa
+34200,Shendi,Sudan,Africa
+34212,Ad Damazīn,Sudan,Africa
+34224,Kadugli,Sudan,Africa
+34236,Atbara,Sudan,Africa
+34248,Geneina,Sudan,Africa
+34260,El Manaqil,Sudan,Africa
+34272,Sennar,Sudan,Africa
+34284,En Nuhud,Sudan,Africa
+34296,EdDamer,Sudan,Africa
+34308,Ed Dueim,Sudan,Africa
+34320,Tokar,Sudan,Africa
+34332,Umm Ruwaba,Sudan,Africa
+34344,Sydney,Australia,Oceania
+34368,Brisbane,Australia,Oceania
+34380,Perth,Australia,Oceania
+34392,Adelaide,Australia,Oceania
+34416,Gold Coast,Australia,Oceania
+34428,Cranbourne,Australia,Oceania
+34440,Canberra,Australia,Oceania
+34452,Wollongong,Australia,Oceania
+34464,Geelong,Australia,Oceania
+34476,Cairns,Australia,Oceania
+34488,Townsville,Australia,Oceania
+34500,Albury,Australia,Oceania
+34512,Nowra,Australia,Oceania
+34524,Darwin,Australia,Oceania
+34536,Toowoomba,Australia,Oceania
+34548,Ballarat,Australia,Oceania
+34560,Bendigo,Australia,Oceania
+34572,Hobart,Australia,Oceania
+34584,Mackay,Australia,Oceania
+34596,Mandurah,Australia,Oceania
+34608,Launceston,Australia,Oceania
+34620,Rockhampton,Australia,Oceania
+34632,Coffs Harbour,Australia,Oceania
+34644,Wagga Wagga,Australia,Oceania
+34656,Bundaberg,Australia,Oceania
+34668,Riyadh,Saudi Arabia,Asia
+34680,Jeddah,Saudi Arabia,Asia
+34692,Ad Damman,Saudi Arabia,Asia
+34704,Makkah,Saudi Arabia,Asia
+34716,Medina,Saudi Arabia,Asia
+34728,At Taif,Saudi Arabia,Asia
+34740,Al Hufuf,Saudi Arabia,Asia
+34764,Tabuk,Saudi Arabia,Asia
+34776,Buraydah,Saudi Arabia,Asia
+34788,Hail,Saudi Arabia,Asia
+34800,Najran,Saudi Arabia,Asia
+34812,Al-Qatif,Saudi Arabia,Asia
+34824,Al Mubarraz,Saudi Arabia,Asia
+34836,Al Kharj,Saudi Arabia,Asia
+34848,Yanbu al Bahr,Saudi Arabia,Asia
+34860,Hafar al Batin,Saudi Arabia,Asia
+34872,Al Jubayl,Saudi Arabia,Asia
+34884,Arar,Saudi Arabia,Asia
+34896,Abha,Saudi Arabia,Asia
+34908,Sakakah,Saudi Arabia,Asia
+34920,Jizan,Saudi Arabia,Asia
+34932,Az Zahran,Saudi Arabia,Asia
+34944,Qal at Bishah,Saudi Arabia,Asia
+34956,Rafha,Saudi Arabia,Asia
+34968,Johannesburg,South Africa,Africa
+34980,Cape Town,South Africa,Africa
+34992,Benoni,South Africa,Africa
+35004,Durban,South Africa,Africa
+35016,Pretoria,South Africa,Africa
+35028,Vereeniging,South Africa,Africa
+35040,Port Elizabeth,South Africa,Africa
+35052,Pietermaritzburg,South Africa,Africa
+35064,Bloemfontein,South Africa,Africa
+35076,Welkom,South Africa,Africa
+35088,East London,South Africa,Africa
+35100,Thohoyandou,South Africa,Africa
+35112,Springs,South Africa,Africa
+35124,Uitenhage,South Africa,Africa
+35136,Polokwane,South Africa,Africa
+35148,Paarl,South Africa,Africa
+35160,Klerksdorp,South Africa,Africa
+35172,George,South Africa,Africa
+35184,Rustenburg,South Africa,Africa
+35196,Kimberley,South Africa,Africa
+35208,Bhisho,South Africa,Africa
+35220,Middelburg,South Africa,Africa
+35232,Vryheid,South Africa,Africa
+35244,Umtata,South Africa,Africa
+35268,Potchefstroom,South Africa,Africa
+35280,Brits,South Africa,Africa
+35292,Queenstown,South Africa,Africa
+35304,Mmabatho,South Africa,Africa
+35316,Kroonstad,South Africa,Africa
+35328,Bethal,South Africa,Africa
+35340,Grahamstown,South Africa,Africa
+35364,Oudtshoorn,South Africa,Africa
+35376,Standerton,South Africa,Africa
+35388,Upington,South Africa,Africa
+35400,Saldanha,South Africa,Africa
+35412,Tzaneen,South Africa,Africa
+35424,Knysna,South Africa,Africa
+35436,Graaff Reinet,South Africa,Africa
+35448,Port Shepstone,South Africa,Africa
+35460,Berlin,Germany,Europe
+35472,Stuttgart,Germany,Europe
+35484,Frankfurt,Germany,Europe
+35496,Mannheim,Germany,Europe
+35508,Hamburg,Germany,Europe
+35520,Essen,Germany,Europe
+35532,Duisburg,Germany,Europe
+35544,Munich,Germany,Europe
+35556,Dusseldorf,Germany,Europe
+35568,Cologne,Germany,Europe
+35580,Wuppertal,Germany,Europe
+35592,Saarbrucken,Germany,Europe
+35604,Nurnberg,Germany,Europe
+35616,Bremen,Germany,Europe
+35628,Hannover,Germany,Europe
+35640,Bonn,Germany,Europe
+35652,Dresden,Germany,Europe
+35664,Wiesbaden,Germany,Europe
+35676,Dortmund,Germany,Europe
+35688,Leipzig,Germany,Europe
+35700,Heidelberg,Germany,Europe
+35712,Karlsruhe,Germany,Europe
+35724,Augsburg,Germany,Europe
+35736,Bielefeld,Germany,Europe
+35748,Koblenz,Germany,Europe
+35760,Chemnitz,Germany,Europe
+35772,Kassel,Germany,Europe
+35784,Munster,Germany,Europe
+35796,Kiel,Germany,Europe
+35808,Freiburg,Germany,Europe
+35820,Braunschweig,Germany,Europe
+35832,Furth,Germany,Europe
+35844,Lubeck,Germany,Europe
+35856,Osnabruck,Germany,Europe
+35868,Magdeburg,Germany,Europe
+35880,Potsdam,Germany,Europe
+35892,Erfurt,Germany,Europe
+35904,Rostock,Germany,Europe
+35916,Mainz,Germany,Europe
+35928,Ulm,Germany,Europe
+35940,Wurzburg,Germany,Europe
+35952,Oldenburg,Germany,Europe
+35964,Regensburg,Germany,Europe
+35976,Ingolstadt,Germany,Europe
+35988,Gottingen,Germany,Europe
+36000,Bremerhaven,Germany,Europe
+36012,Cottbus,Germany,Europe
+36024,Jena,Germany,Europe
+36036,Gera,Germany,Europe
+36048,Flensburg,Germany,Europe
+36060,Schwerin,Germany,Europe
+36072,Rosenheim,Germany,Europe
+36084,Gießen,Germany,Europe
+36096,Stralsund,Germany,Europe
+36108,Coburg,Germany,Europe
+36120,Hof,Germany,Europe
+36132,Emden,Germany,Europe
+36144,Passau,Germany,Europe
+36156,Algiers,Algeria,Africa
+36168,Oran,Algeria,Africa
+36180,Constantine,Algeria,Africa
+36192,Blida,Algeria,Africa
+36204,Annaba,Algeria,Africa
+36216,Chlef,Algeria,Africa
+36228,Bejaia,Algeria,Africa
+36240,Batna,Algeria,Africa
+36252,Setif,Algeria,Africa
+36264,Tlimcen,Algeria,Africa
+36276,Skikda,Algeria,Africa
+36288,Sidi bel Abbes,Algeria,Africa
+36300,Biskra,Algeria,Africa
+36312,Mostaganem,Algeria,Africa
+36324,Tiarat,Algeria,Africa
+36336,El Oued,Algeria,Africa
+36348,Ouargla,Algeria,Africa
+36360,Tebessa,Algeria,Africa
+36372,Djelfa,Algeria,Africa
+36384,M'sila,Algeria,Africa
+36396,Jijel,Algeria,Africa
+36408,Medea,Algeria,Africa
+36420,Tizi-Ouzou,Algeria,Africa
+36432,Bechar,Algeria,Africa
+36444,Saida,Algeria,Africa
+36456,Bordj Bou Arreridj,Algeria,Africa
+36468,Souk Ahras,Algeria,Africa
+36480,Touggourt,Algeria,Africa
+36492,Ghardaia,Algeria,Africa
+36504,Guelma,Algeria,Africa
+36516,Laghouat,Algeria,Africa
+36528,Bouira,Algeria,Africa
+36540,Mascara,Algeria,Africa
+36552,Oum el Bouaghi,Algeria,Africa
+36564,Tamanrasset,Algeria,Africa
+36576,El Bayadh,Algeria,Africa
+36588,Sefra,Algeria,Africa
+36600,Adrar,Algeria,Africa
+36624,Milan,Italy,Europe
+36636,Naples,Italy,Europe
+36648,Turin,Italy,Europe
+36672,Salerno,Italy,Europe
+36684,Palermo,Italy,Europe
+36696,Catania,Italy,Europe
+36708,Genoa,Italy,Europe
+36720,Bari,Italy,Europe
+36732,Bologna,Italy,Europe
+36744,Verona,Italy,Europe
+36756,Pescara,Italy,Europe
+36768,Cagliari,Italy,Europe
+36780,Venice,Italy,Europe
+36792,Messina,Italy,Europe
+36804,Como,Italy,Europe
+36816,Caserta,Italy,Europe
+36828,Trieste,Italy,Europe
+36840,Pisa,Italy,Europe
+36852,Taranto,Italy,Europe
+36864,Bergamo,Italy,Europe
+36876,Reggio di Calabria,Italy,Europe
+36888,Treviso,Italy,Europe
+36900,Modena,Italy,Europe
+36924,Lecce,Italy,Europe
+36936,Livorno,Italy,Europe
+36948,Foggia,Italy,Europe
+36960,Perugia,Italy,Europe
+36972,Ravenna,Italy,Europe
+36984,Ferrara,Italy,Europe
+36996,Siracusa,Italy,Europe
+37008,Sassari,Italy,Europe
+37020,Udine,Italy,Europe
+37032,Barletta,Italy,Europe
+37044,Trento,Italy,Europe
+37056,Brindisi,Italy,Europe
+37068,Novara,Italy,Europe
+37080,Ancona,Italy,Europe
+37092,Bolzano,Italy,Europe
+37104,Catanzaro,Italy,Europe
+37116,Arezzo,Italy,Europe
+37128,Marsala,Italy,Europe
+37140,Asti,Italy,Europe
+37152,Potenza,Italy,Europe
+37164,Ragusa,Italy,Europe
+37176,L'Aquila,Italy,Europe
+37188,Benevento,Italy,Europe
+37200,Civitavecchia,Italy,Europe
+37212,Crotone,Italy,Europe
+37224,Siena,Italy,Europe
+37236,Campobasso,Italy,Europe
+37248,Kabul,Afghanistan,Asia
+37260,Kandahar,Afghanistan,Asia
+37272,Jalalabad,Afghanistan,Asia
+37284,Herat,Afghanistan,Asia
+37296,Mazar-e Sharif,Afghanistan,Asia
+37308,Kondoz,Afghanistan,Asia
+37320,Baghlan,Afghanistan,Asia
+37332,Lashkar Gah,Afghanistan,Asia
+37344,Meymaneh,Afghanistan,Asia
+37356,Balkh,Afghanistan,Asia
+37368,Ghazni,Afghanistan,Asia
+37380,Gardiz,Afghanistan,Asia
+37392,Sheberghan,Afghanistan,Asia
+37404,Farah,Afghanistan,Asia
+37416,Andkhvoy,Afghanistan,Asia
+37428,Feyzabad,Afghanistan,Asia
+37440,Taloqan,Afghanistan,Asia
+37452,Bamian,Afghanistan,Asia
+37464,Pol-e Khomri,Afghanistan,Asia
+37476,Charikar,Afghanistan,Asia
+37500,Thessaloniki,Greece,Europe
+37512,Piraeus,Greece,Europe
+37524,Patra,Greece,Europe
+37536,Iraklio,Greece,Europe
+37548,Larissa,Greece,Europe
+37560,Volos,Greece,Europe
+37572,Ioanina,Greece,Europe
+37584,Hania,Greece,Europe
+37596,Agrinio,Greece,Europe
+37608,Chalkida,Greece,Europe
+37620,Kalamata,Greece,Europe
+37632,Kavala,Greece,Europe
+37644,Rodos,Greece,Europe
+37656,Seres,Greece,Europe
+37668,Katerini,Greece,Europe
+37680,Alexandroupoli,Greece,Europe
+37692,Xanthi,Greece,Europe
+37704,Casablanca,Morocco,Africa
+37716,Rabat,Morocco,Africa
+37728,Fez,Morocco,Africa
+37740,Marrakesh,Morocco,Africa
+37752,Agadir,Morocco,Africa
+37764,Tangier,Morocco,Africa
+37776,Meknes,Morocco,Africa
+37788,Kenitra,Morocco,Africa
+37800,Oujda,Morocco,Africa
+37812,Safi,Morocco,Africa
+37824,Ksar El Kebir,Morocco,Africa
+37836,Er Rachidia,Morocco,Africa
+37848,Taza,Morocco,Africa
+37860,El Jadida,Morocco,Africa
+37872,Settat,Morocco,Africa
+37884,Larache,Morocco,Africa
+37896,Goulimine,Morocco,Africa
+37908,Ouezzane,Morocco,Africa
+37920,Tan Tan,Morocco,Africa
+37932,Tiznit,Morocco,Africa
+37944,Tel Aviv-Yafo,Israel,Asia
+37956,Jerusalem,Israel,Asia
+37968,Haifa,Israel,Asia
+37980,Beer Sheva,Israel,Asia
+37992,Nazareth,Israel,Asia
+38004,Ramla,Israel,Asia
+38016,Addis Ababa,Ethiopia,Africa
+38028,Nazret,Ethiopia,Africa
+38040,Dire Dawa,Ethiopia,Africa
+38052,Bahir Dar,Ethiopia,Africa
+38064,Dese,Ethiopia,Africa
+38076,Harar,Ethiopia,Africa
+38088,Gondar,Ethiopia,Africa
+38100,Awasa,Ethiopia,Africa
+38112,Jima,Ethiopia,Africa
+38124,Giyon,Ethiopia,Africa
+38136,Shashemene,Ethiopia,Africa
+38148,Adigrat,Ethiopia,Africa
+38160,Mekele,Ethiopia,Africa
+38172,Hosaina,Ethiopia,Africa
+38184,Asela,Ethiopia,Africa
+38196,Gode,Ethiopia,Africa
+38208,Nekemte,Ethiopia,Africa
+38220,Debre Markos,Ethiopia,Africa
+38232,Arba Minch,Ethiopia,Africa
+38244,Sodo,Ethiopia,Africa
+38256,Debre Birhan,Ethiopia,Africa
+38268,Jijiga,Ethiopia,Africa
+38280,Nairobi,Kenya,Africa
+38292,Mombasa,Kenya,Africa
+38304,Kisumu,Kenya,Africa
+38316,Nakuru,Kenya,Africa
+38328,Eldoret,Kenya,Africa
+38340,Kitale,Kenya,Africa
+38352,Machakos,Kenya,Africa
+38364,Thika,Kenya,Africa
+38376,Kericho,Kenya,Africa
+38388,Malindi,Kenya,Africa
+38400,Kendu Bay,Kenya,Africa
+38412,Kilifi,Kenya,Africa
+38424,Sotik,Kenya,Africa
+38436,Garissa,Kenya,Africa
+38448,Kakamega,Kenya,Africa
+38460,Embu,Kenya,Africa
+38472,Bungoma,Kenya,Africa
+38484,Nyeri,Kenya,Africa
+38496,Caracas,Venezuela,America
+38508,Maracaibo,Venezuela,America
+38532,Barquisimeto,Venezuela,America
+38544,Maracay,Venezuela,America
+38556,Ciudad Guayana,Venezuela,America
+38580,Puerto la Cruz,Venezuela,America
+38592,Cabimas,Venezuela,America
+38604,San Cristobal,Venezuela,America
+38616,Maturin,Venezuela,America
+38628,Merida,Venezuela,America
+38640,Ciudad Bolivar,Venezuela,America
+38652,Cumana,Venezuela,America
+38664,Maiquetia,Venezuela,America
+38676,Los Teques,Venezuela,America
+38688,Barinas,Venezuela,America
+38700,Acarigua,Venezuela,America
+38712,Punto Fijo,Venezuela,America
+38724,El Tigre,Venezuela,America
+38736,Porlamar,Venezuela,America
+38748,Coro,Venezuela,America
+38760,Valera,Venezuela,America
+38772,Puerto Cabello,Venezuela,America
+38784,Ocumare del Tuy,Venezuela,America
+38796,Guanare,Venezuela,America
+38808,Carora,Venezuela,America
+38820,Carupano,Venezuela,America
+38832,San Fernando de Apure,Venezuela,America
+38844,Anaco,Venezuela,America
+38856,Calabozo,Venezuela,America
+38868,San Carlos del Zulia,Venezuela,America
+38880,Valle de la Pascua,Venezuela,America
+38892,San Juan De Los Morros,Venezuela,America
+38904,San Carlos,Venezuela,America
+38928,Machiques,Venezuela,America
+38940,Upata,Venezuela,America
+38952,Puerto Ayacucho,Venezuela,America
+38964,Tucupita,Venezuela,America
+38988,Dar es Salaam,Tanzania,Africa
+39000,Moshi,Tanzania,Africa
+39012,Mwanza,Tanzania,Africa
+39024,Zanzibar,Tanzania,Africa
+39036,Arusha,Tanzania,Africa
+39048,Mbeya,Tanzania,Africa
+39060,Morogoro,Tanzania,Africa
+39072,Tanga,Tanzania,Africa
+39084,Dodoma,Tanzania,Africa
+39096,Kigoma,Tanzania,Africa
+39108,Tabora,Tanzania,Africa
+39120,Musoma,Tanzania,Africa
+39132,Tukuyu,Tanzania,Africa
+39144,Songea,Tanzania,Africa
+39156,Iringa,Tanzania,Africa
+39168,Shinyanga,Tanzania,Africa
+39180,Bukoba,Tanzania,Africa
+39192,Mtwara,Tanzania,Africa
+39204,Kilosa,Tanzania,Africa
+39216,Sumbawanga,Tanzania,Africa
+39228,Bagamoyo,Tanzania,Africa
+39240,Uvinza,Tanzania,Africa
+39252,Mpanda,Tanzania,Africa
+39264,Singida,Tanzania,Africa
+39276,Korogwe,Tanzania,Africa
+39288,Lisbon,Portugal,Europe
+39300,Porto,Portugal,Europe
+39312,Braga,Portugal,Europe
+39324,Funchal,Portugal,Europe
+39336,Setubal,Portugal,Europe
+39348,Coimbra,Portugal,Europe
+39360,Ponta Delgada,Portugal,Europe
+39372,Portimao,Portugal,Europe
+39384,Évora,Portugal,Europe
+39396,Aveiro,Portugal,Europe
+39408,Katowice,Poland,Europe
+39420,Warsaw,Poland,Europe
+39432,Łodź,Poland,Europe
+39444,Krakow,Poland,Europe
+39456,Gdańsk,Poland,Europe
+39468,Bytom,Poland,Europe
+39480,Wrocław,Poland,Europe
+39492,Poznań,Poland,Europe
+39504,Gliwice,Poland,Europe
+39516,Szczecin,Poland,Europe
+39528,Bydgoszcz,Poland,Europe
+39540,Lublin,Poland,Europe
+39552,Gdynia,Poland,Europe
+39564,Białystok,Poland,Europe
+39576,Rzeszow,Poland,Europe
+39588,Kielce,Poland,Europe
+39600,Olsztyn,Poland,Europe
+39612,Opole,Poland,Europe
+39624,Elbląg,Poland,Europe
+39636,Zielona Gora,Poland,Europe
+39648,Koszalin,Poland,Europe
+39660,Grudziądz,Poland,Europe
+39672,Inowrocław,Poland,Europe
+39684,Ełk,Poland,Europe
+39696,Aleppo,Syria,Asia
+39708,Damascus,Syria,Asia
+39720,Hims,Syria,Asia
+39732,Al Ladhiqiyah,Syria,Asia
+39744,Douma,Syria,Asia
+39756,Hamah,Syria,Asia
+39768,Dayr az Zawr,Syria,Asia
+39780,Ar Raqqah,Syria,Asia
+39792,Tartus,Syria,Asia
+39804,Dar'a,Syria,Asia
+39816,Idlib,Syria,Asia
+39828,Al Hasakah,Syria,Asia
+39840,Manbij,Syria,Asia
+39852,Al Qamishli,Syria,Asia
+39864,Madinat ath Thawrah,Syria,Asia
+39876,Abu Kamal,Syria,Asia
+39888,As Suwayda,Syria,Asia
+39900,Tadmur,Syria,Asia
+39912,Ad Nabk,Syria,Asia
+39924,Dakar,Senegal,Africa
+39936,Thies,Senegal,Africa
+39948,Kaolack,Senegal,Africa
+39960,Ziguinchor,Senegal,Africa
+39972,Diourbel,Senegal,Africa
+39984,Tambacounda,Senegal,Africa
+39996,Louga,Senegal,Africa
+40008,Kolda,Senegal,Africa
+40020,Guayaquil,Ecuador,America
+40032,Quito,Ecuador,America
+40044,Cuenca,Ecuador,America
+40056,Ambato,Ecuador,America
+40068,Portoviejo,Ecuador,America
+40080,Machala,Ecuador,America
+40092,Manta,Ecuador,America
+40104,Sangolqui,Ecuador,America
+40116,Esmeraldas,Ecuador,America
+40128,Riobamba,Ecuador,America
+40140,Ibarra,Ecuador,America
+40152,Loja,Ecuador,America
+40164,Milagro,Ecuador,America
+40176,Latacunga,Ecuador,America
+40188,Tulcan,Ecuador,America
+40200,Babahoyo,Ecuador,America
+40212,Azogues,Ecuador,America
+40224,George Town,Malaysia,Asia
+40236,Kuala Lumpur,Malaysia,Asia
+40248,Kelang,Malaysia,Asia
+40260,Johor Bahru,Malaysia,Asia
+40272,Butterworth,Malaysia,Asia
+40284,Malacca,Malaysia,Asia
+40296,Ipoh,Malaysia,Asia
+40308,Kuching,Malaysia,Asia
+40320,Kota Kinabalu,Malaysia,Asia
+40332,Kota Baharu,Malaysia,Asia
+40344,Shah Alam,Malaysia,Asia
+40356,Sandakan,Malaysia,Asia
+40368,Seremban,Malaysia,Asia
+40380,Kuantan,Malaysia,Asia
+40392,Sungai Petani,Malaysia,Asia
+40404,Kuala Terengganu,Malaysia,Asia
+40416,Alor Setar,Malaysia,Asia
+40428,Tawau,Malaysia,Asia
+40440,Taiping,Malaysia,Asia
+40452,Miri,Malaysia,Asia
+40464,Sibu,Malaysia,Asia
+40476,Batu Pahat,Malaysia,Asia
+40488,Muar,Malaysia,Asia
+40500,Keluang,Malaysia,Asia
+40512,Bintulu,Malaysia,Asia
+40524,Lahad Datu,Malaysia,Asia
+40536,Teluk Intan,Malaysia,Asia
+40548,Chukai,Malaysia,Asia
+40560,Putrajaya,Malaysia,Asia
+40572,Kangar,Malaysia,Asia
+40584,Tunis,Tunisia,Africa
+40596,Sfax,Tunisia,Africa
+40608,Sousse,Tunisia,Africa
+40620,Gabes,Tunisia,Africa
+40632,Zarzis,Tunisia,Africa
+40644,Qairouan,Tunisia,Africa
+40656,Bizerte,Tunisia,Africa
+40668,Gafsa,Tunisia,Africa
+40680,Nabeul,Tunisia,Africa
+40692,L'Ariana,Tunisia,Africa
+40704,Qasserine,Tunisia,Africa
+40716,Monastir,Tunisia,Africa
+40728,Tataouine,Tunisia,Africa
+40740,Medenine,Tunisia,Africa
+40752,Beja,Tunisia,Africa
+40764,Jendouba,Tunisia,Africa
+40776,Vienna,Austria,Europe
+40788,Linz,Austria,Europe
+40800,Graz,Austria,Europe
+40812,Salzburg,Austria,Europe
+40824,Innsbruck,Austria,Europe
+40836,Klagenfurt,Austria,Europe
+40848,Wiener Neustadt,Austria,Europe
+40860,Tripoli,Libya,Africa
+40872,Banghazi,Libya,Africa
+40884,Misratah,Libya,Africa
+40896,Tubruq,Libya,Africa
+40908,Al Khums,Libya,Africa
+40920,Az Zawiyah,Libya,Africa
+40932,Zuwarah,Libya,Africa
+40944,Al Marj,Libya,Africa
+40956,Gharyan,Libya,Africa
+40968,Ajdabiya,Libya,Africa
+40980,Surt,Libya,Africa
+40992,Darnah,Libya,Africa
+41004,Sabha,Libya,Africa
+41016,Nalut,Libya,Africa
+41028,Bani Walid,Libya,Africa
+41040,Marzuq,Libya,Africa
+41052,Havana,Cuba,America
+41064,Santiago de Cuba,Cuba,America
+41076,Camaguey,Cuba,America
+41088,Holguin,Cuba,America
+41100,Guantanamo,Cuba,America
+41124,Las Tunas,Cuba,America
+41136,Bayamo,Cuba,America
+41148,Pinar del Rio,Cuba,America
+41160,Cienfuegos,Cuba,America
+41172,Matanzas,Cuba,America
+41184,Ciego de Ávila,Cuba,America
+41208,Sancti Spiritus,Cuba,America
+41220,Palma Soriano,Cuba,America
+41232,Guines,Cuba,America
+41244,Artemisa,Cuba,America
+41256,Moron,Cuba,America
+41268,Colon,Cuba,America
+41280,Sagua la Grande,Cuba,America
+41292,Placetas,Cuba,America
+41304,Nuevitas,Cuba,America
+41316,Banes,Cuba,America
+41328,Santo Domingo,Dominican Republic,America
+41352,San Pedro de Macoris,Dominican Republic,America
+41364,La Romana,Dominican Republic,America
+41376,La Vega,Dominican Republic,America
+41400,San Francisco de Macoris,Dominican Republic,America
+41412,Higuey,Dominican Republic,America
+41424,Puerto Plata,Dominican Republic,America
+41436,Barahona,Dominican Republic,America
+41448,Bonao,Dominican Republic,America
+41472,Bani,Dominican Republic,America
+41484,Moca,Dominican Republic,America
+41496,Azua,Dominican Republic,America
+41508,Accra,Ghana,Africa
+41520,Kumasi,Ghana,Africa
+41532,Tamale,Ghana,Africa
+41544,Sekondi,Ghana,Africa
+41556,Tema,Ghana,Africa
+41568,Obuasi,Ghana,Africa
+41580,Koforidua,Ghana,Africa
+41592,Cape Coast,Ghana,Africa
+41604,Ho,Ghana,Africa
+41616,Bolgatanga,Ghana,Africa
+41628,Wa,Ghana,Africa
+41640,Bawku,Ghana,Africa
+41652,Sunyani,Ghana,Africa
+41664,Nkawkaw,Ghana,Africa
+41700,Cochabamba,Bolivia,America
+41712,Oruro,Bolivia,America
+41736,Quillacollo,Bolivia,America
+41748,Sucre,Bolivia,America
+41760,Potosi,Bolivia,America
+41772,Tarija,Bolivia,America
+41784,Montero,Bolivia,America
+41796,Trinidad,Bolivia,America
+41808,Riberalta,Bolivia,America
+41820,Kuwait,Kuwait,Asia
+41832,Al Jahra,Kuwait,Asia
+41844,Al Ahmadi,Kuwait,Asia
+41856,Port-au-Prince,Haiti,America
+41868,Cap-Haitien,Haiti,America
+41880,Les Cayes,Haiti,America
+41892,Gonaives,Haiti,America
+41904,Bucharest,Romania,Europe
+41916,Iași,Romania,Europe
+41928,Cluj-Napoca,Romania,Europe
+41940,Timișoara,Romania,Europe
+41952,Galați,Romania,Europe
+41964,Brașov,Romania,Europe
+41976,Craiova,Romania,Europe
+41988,Constanța,Romania,Europe
+42000,Ploiești,Romania,Europe
+42012,Oradea,Romania,Europe
+42024,Brăila,Romania,Europe
+42036,Bacău,Romania,Europe
+42048,Pitești,Romania,Europe
+42060,Arad,Romania,Europe
+42072,Sibiu,Romania,Europe
+42084,Tirgu Mures,Romania,Europe
+42096,Baia Mare,Romania,Europe
+42108,Buzău,Romania,Europe
+42120,Botoșani,Romania,Europe
+42132,Satu Mare,Romania,Europe
+42144,Rimnicu Vilcea,Romania,Europe
+42156,Drobeta-Turnu Severin,Romania,Europe
+42168,Suceava,Romania,Europe
+42180,Focșani,Romania,Europe
+42192,Piatra-Neamt,Romania,Europe
+42204,Targu Jiu,Romania,Europe
+42216,Tulcea,Romania,Europe
+42228,Targoviște,Romania,Europe
+42240,Reșița,Romania,Europe
+42252,Bistrița,Romania,Europe
+42264,Slatina,Romania,Europe
+42276,Călărași,Romania,Europe
+42288,Vaslui,Romania,Europe
+42300,Giurgiu,Romania,Europe
+42312,Deva,Romania,Europe
+42324,Alba Lulia,Romania,Europe
+42336,Zalău,Romania,Europe
+42348,Sfintu-Gheorghe,Romania,Europe
+42360,Slobozia,Romania,Europe
+42372,Douala,Cameroon,Africa
+42384,Yaounde,Cameroon,Africa
+42396,Bamenda,Cameroon,Africa
+42408,Garoua,Cameroon,Africa
+42420,Maroua,Cameroon,Africa
+42432,Bafoussam,Cameroon,Africa
+42444,Ngaoundere,Cameroon,Africa
+42456,Bertoua,Cameroon,Africa
+42468,Limbe,Cameroon,Africa
+42480,Edea,Cameroon,Africa
+42492,Kumba,Cameroon,Africa
+42504,Kumbo,Cameroon,Africa
+42516,Nkongsamba,Cameroon,Africa
+42528,Bafang,Cameroon,Africa
+42540,Foumban,Cameroon,Africa
+42552,Buea,Cameroon,Africa
+42564,Ebolowa,Cameroon,Africa
+42576,Guider,Cameroon,Africa
+42588,Mbalmayo,Cameroon,Africa
+42600,Meiganga,Cameroon,Africa
+42612,Bafia,Cameroon,Africa
+42624,Wum,Cameroon,Africa
+42636,Kribi,Cameroon,Africa
+42648,Asuncion,Paraguay,America
+42660,San Lorenzo,Paraguay,America
+42672,Encarnacion,Paraguay,America
+42684,Ciudad del Este,Paraguay,America
+42696,Pedro Juan Caballero,Paraguay,America
+42708,Coronel Oviedo,Paraguay,America
+42732,Beirut,Lebanon,Asia
+42744,Trablous,Lebanon,Asia
+42756,Saida,Lebanon,Asia
+42768,Nabatiye et Tahta,Lebanon,Asia
+42780,Zahle,Lebanon,Asia
+42792,Brussels,Belgium,Europe
+42804,Antwerpen,Belgium,Europe
+42816,Liege,Belgium,Europe
+42828,Gent,Belgium,Europe
+42840,Charleroi,Belgium,Europe
+42852,Brugge,Belgium,Europe
+42864,Namur,Belgium,Europe
+42876,Mons,Belgium,Europe
+42888,Hasselt,Belgium,Europe
+42900,Antananarivo,Madagascar,Africa
+42912,Antsirabe,Madagascar,Africa
+42924,Toamasina,Madagascar,Africa
+42936,Fianarantsoa,Madagascar,Africa
+42948,Mahajanga,Madagascar,Africa
+42960,Toliara,Madagascar,Africa
+42972,Antsiranana,Madagascar,Africa
+42984,Budapest,Hungary,Europe
+42996,Miskolc,Hungary,Europe
+43008,Debrecen,Hungary,Europe
+43020,Szeged,Hungary,Europe
+43032,Pecs,Hungary,Europe
+43044,Nyiregyhaza,Hungary,Europe
+43056,Szekesfehervar,Hungary,Europe
+43068,Győr,Hungary,Europe
+43080,Kecskemet,Hungary,Europe
+43092,Szombathely,Hungary,Europe
+43104,Szolnok,Hungary,Europe
+43116,Kaposvar,Hungary,Europe
+43128,Tatabanya,Hungary,Europe
+43140,Bekescsaba,Hungary,Europe
+43152,Veszprem,Hungary,Europe
+43164,Zalaegerszeg,Hungary,Europe
+43176,Eger,Hungary,Europe
+43188,Harare,Zimbabwe,Africa
+43200,Bulawayo,Zimbabwe,Africa
+43212,Chitungwiza,Zimbabwe,Africa
+43224,Mutare,Zimbabwe,Africa
+43236,Gweru,Zimbabwe,Africa
+43248,Kwekwe,Zimbabwe,Africa
+43260,Kadoma,Zimbabwe,Africa
+43272,Masvingo,Zimbabwe,Africa
+43284,Chinhoyi,Zimbabwe,Africa
+43296,Montevideo,Uruguay,America
+43308,Rivera,Uruguay,America
+43320,Punta del Este,Uruguay,America
+43332,Salto,Uruguay,America
+43344,Paysandu,Uruguay,America
+43356,Melo,Uruguay,America
+43368,Maldonado,Uruguay,America
+43380,Tacuarembo,Uruguay,America
+43392,Bamako,Mali,Africa
+43404,Sikasso,Mali,Africa
+43416,Segou,Mali,Africa
+43428,Gao,Mali,Africa
+43440,Mopti,Mali,Africa
+43452,Koutiala,Mali,Africa
+43464,Kayes,Mali,Africa
+43476,Timbuktu,Mali,Africa
+43488,Kati,Mali,Africa
+43500,Markala,Mali,Africa
+43512,Conakry,Guinea,Africa
+43524,Gueckedou,Guinea,Africa
+43536,Nzerekore,Guinea,Africa
+43548,Labe,Guinea,Africa
+43560,Kindia,Guinea,Africa
+43572,Boke,Guinea,Africa
+43584,Kankan,Guinea,Africa
+43596,Mamou,Guinea,Africa
+43608,Kissidougou,Guinea,Africa
+43620,Siguiri,Guinea,Africa
+43632,Phnom Penh,Cambodia,Asia
+43644,Battambang,Cambodia,Asia
+43656,Siem Reap,Cambodia,Asia
+43668,Kampong Cham,Cambodia,Asia
+43680,Kompong Chhnang,Cambodia,Asia
+43692,Prey Veng,Cambodia,Asia
+43704,Pursat,Cambodia,Asia
+43716,Sisophon,Cambodia,Asia
+43728,Kampot,Cambodia,Asia
+43740,Lome,Togo,Africa
+43752,Sokode,Togo,Africa
+43764,Kpalime,Togo,Africa
+43776,Atakpame,Togo,Africa
+43788,Bassar,Togo,Africa
+43800,Maputo,Mozambique,Africa
+43812,Matola,Mozambique,Africa
+43824,Beira,Mozambique,Africa
+43836,Nampula,Mozambique,Africa
+43848,Chimoio,Mozambique,Africa
+43860,Nacala,Mozambique,Africa
+43872,Quelimane,Mozambique,Africa
+43884,Tete,Mozambique,Africa
+43896,Xai-Xai,Mozambique,Africa
+43908,Maxixe,Mozambique,Africa
+43920,Inhambane,Mozambique,Africa
+43932,Pemba,Mozambique,Africa
+43944,Lichinga,Mozambique,Africa
+43956,Dondo,Mozambique,Africa
+43968,Cuamba,Mozambique,Africa
+43980,Montepuez,Mozambique,Africa
+43992,Mocuba,Mozambique,Africa
+44004,Angoche,Mozambique,Africa
+44016,Mocambique,Mozambique,Africa
+44028,San Salvador,El Salvador,America
+44052,San Miguel,El Salvador,America
+44064,Sonsonate,El Salvador,America
+44076,Nueva San Salvador,El Salvador,America
+44088,Usulutan,El Salvador,America
+44100,Kampala,Uganda,Africa
+44112,Mbale,Uganda,Africa
+44124,Jinja,Uganda,Africa
+44136,Arua,Uganda,Africa
+44148,Entebbe,Uganda,Africa
+44160,Tororo,Uganda,Africa
+44172,Gulu,Uganda,Africa
+44184,Lira,Uganda,Africa
+44196,Mbarara,Uganda,Africa
+44208,Bombo,Uganda,Africa
+44220,Kasese,Uganda,Africa
+44232,Masaka,Uganda,Africa
+44244,Kitgum,Uganda,Africa
+44256,The Hague,Netherlands,Europe
+44268,Amsterdam,Netherlands,Europe
+44280,Rotterdam,Netherlands,Europe
+44292,Utrecht,Netherlands,Europe
+44304,Eindhoven,Netherlands,Europe
+44316,Haarlem,Netherlands,Europe
+44328,Groningen,Netherlands,Europe
+44340,Arnhem,Netherlands,Europe
+44352,'s-Hertogenbosch,Netherlands,Europe
+44364,Leeuwarden,Netherlands,Europe
+44376,Maastricht,Netherlands,Europe
+44388,Zwolle,Netherlands,Europe
+44400,Assen,Netherlands,Europe
+44412,Auckland,New Zealand,Oceania
+44436,Manukau,New Zealand,Oceania
+44448,Christchurch,New Zealand,Oceania
+44460,Waitakere,New Zealand,Oceania
+44472,North Shore,New Zealand,Oceania
+44496,Tauranga,New Zealand,Oceania
+44508,Dunedin,New Zealand,Oceania
+44520,Lower Hutt,New Zealand,Oceania
+44532,Palmerston North,New Zealand,Oceania
+44544,Nelson,New Zealand,Oceania
+44556,Napier,New Zealand,Oceania
+44568,Rotorua,New Zealand,Oceania
+44580,Porirua,New Zealand,Oceania
+44592,New Plymouth,New Zealand,Oceania
+44604,Whangarei,New Zealand,Oceania
+44616,Lusaka,Zambia,Africa
+44628,Kitwe,Zambia,Africa
+44640,Ndola,Zambia,Africa
+44652,Kasama,Zambia,Africa
+44664,Kabwe,Zambia,Africa
+44676,Chingola,Zambia,Africa
+44688,Livingstone,Zambia,Africa
+44700,Mufulira,Zambia,Africa
+44712,Luanshya,Zambia,Africa
+44724,Chipata,Zambia,Africa
+44736,Chililabombwe,Zambia,Africa
+44748,Solwezi,Zambia,Africa
+44760,Mazabuka,Zambia,Africa
+44772,Mongu,Zambia,Africa
+44784,San Jose,Costa Rica,America
+44796,Alajuela,Costa Rica,America
+44820,Puerto Limon,Costa Rica,America
+44832,Puntarenas,Costa Rica,America
+44868,David,Panama,America
+44880,Balboa,Panama,America
+44892,Stockholm,Sweden,Europe
+44904,Goteborg,Sweden,Europe
+44916,Malmo,Sweden,Europe
+44928,Uppsala,Sweden,Europe
+44940,Vasteras,Sweden,Europe
+44952,Orebro,Sweden,Europe
+44964,Linkoping,Sweden,Europe
+44976,Helsingborg,Sweden,Europe
+44988,Jonkoping,Sweden,Europe
+45000,Norrkoping,Sweden,Europe
+45012,Umea,Sweden,Europe
+45024,Karlstad,Sweden,Europe
+45036,Sundsvall,Sweden,Europe
+45048,Gavle,Sweden,Europe
+45060,Boras,Sweden,Europe
+45072,Vaxjo,Sweden,Europe
+45084,Halmstad,Sweden,Europe
+45096,Geneva,Switzerland,Europe
+45108,Zurich,Switzerland,Europe
+45120,Basel,Switzerland,Europe
+45132,Bern,Switzerland,Europe
+45144,Lausanne,Switzerland,Europe
+45156,Luzern,Switzerland,Europe
+45168,Lugano,Switzerland,Europe
+45180,Biel,Switzerland,Europe
+45192,Saint Gallen,Switzerland,Europe
+45204,Sofia,Bulgaria,Europe
+45216,Plovdiv,Bulgaria,Europe
+45228,Varna,Bulgaria,Europe
+45240,Burgas,Bulgaria,Europe
+45252,Ruse,Bulgaria,Europe
+45264,Stara Zagora,Bulgaria,Europe
+45276,Pleven,Bulgaria,Europe
+45288,Sliven,Bulgaria,Europe
+45300,Dobrich,Bulgaria,Europe
+45312,Shumen,Bulgaria,Europe
+45324,Pernik,Bulgaria,Europe
+45336,Khaskovo,Bulgaria,Europe
+45348,Vratsa,Bulgaria,Europe
+45360,Turnovo,Bulgaria,Europe
+45372,Kyustendil,Bulgaria,Europe
+45384,Ouagadougou,Burkina Faso,Africa
+45396,Bobo Dioulasso,Burkina Faso,Africa
+45408,Koudougou,Burkina Faso,Africa
+45420,Ouahigouya,Burkina Faso,Africa
+45432,Banfora,Burkina Faso,Africa
+45444,Helsinki,Finland,Europe
+45456,Tampere,Finland,Europe
+45468,Turku,Finland,Europe
+45480,Oulu,Finland,Europe
+45492,Lahti,Finland,Europe
+45504,Jyvaskyla,Finland,Europe
+45516,Kuopio,Finland,Europe
+45528,Pori,Finland,Europe
+45540,Lappeenranta,Finland,Europe
+45552,Vaasa,Finland,Europe
+45564,Joensuu,Finland,Europe
+45576,Mogadishu,Somalia,Africa
+45588,Kismaayo,Somalia,Africa
+45600,Jamaame,Somalia,Africa
+45612,Baydhabo,Somalia,Africa
+45624,Jawhar,Somalia,Africa
+45636,Beledweyne,Somalia,Africa
+45648,Gaalkacyo,Somalia,Africa
+45660,Belgrade,Serbia,Europe
+45672,Nis,Serbia,Europe
+45684,Novi Sad,Serbia,Europe
+45696,Kragujevac,Serbia,Europe
+45708,Cacak,Serbia,Europe
+45720,Subotica,Serbia,Europe
+45732,Zrenjanin,Serbia,Europe
+45744,Copenhagen,Denmark,Europe
+45756,Arhus,Denmark,Europe
+45768,Odense,Denmark,Europe
+45780,Aalborg,Denmark,Europe
+45792,Esbjerg,Denmark,Europe
+45804,Vejle,Denmark,Europe
+45816,Amman,Jordan,Asia
+45828,Az Zarqa,Jordan,Asia
+45840,Irbid,Jordan,Asia
+45852,As Salt,Jordan,Asia
+45864,Al Aqabah,Jordan,Asia
+45876,Al Karak,Jordan,Asia
+45888,Al Mafraq,Jordan,Asia
+45900,Ma'an,Jordan,Asia
+45924,Cork,Ireland,Europe
+45936,Limerick,Ireland,Europe
+45948,Galway,Ireland,Europe
+45960,Monrovia,Liberia,Africa
+45972,Guatemala,Guatemala,America
+45984,Quetzaltenango,Guatemala,America
+45996,El Progreso,Guatemala,America
+46032,Huehuetenango,Guatemala,America
+46044,Chimaltenango,Guatemala,America
+46056,Totonicapan,Guatemala,America
+46068,Coban,Guatemala,America
+46080,Mazatenango,Guatemala,America
+46092,Puerto Barrios,Guatemala,America
+46104,Jutiapa,Guatemala,America
+46116,Ndjamena,Chad,Africa
+46128,Bongor,Chad,Africa
+46140,Sarh,Chad,Africa
+46152,Abeche,Chad,Africa
+46164,Moundou,Chad,Africa
+46176,Kelo,Chad,Africa
+46188,Tegucigalpa,Honduras,America
+46200,San Pedro Sula,Honduras,America
+46212,La Ceiba,Honduras,America
+46224,Choluteca,Honduras,America
+46236,Comayagua,Honduras,America
+46260,Spanish Town,Jamaica,America
+46272,May Pen,Jamaica,America
+46284,Montego Bay,Jamaica,America
+46296,Half Way Tree,Jamaica,America
+46308,Djibouti,Djibouti,Africa
+46320,Managua,Nicaragua,America
+46344,Chinandega,Nicaragua,America
+46356,Masaya,Nicaragua,America
+46368,Matagalpa,Nicaragua,America
+46380,Esteli,Nicaragua,America
+46404,Juigalpa,Nicaragua,America
+46416,Jinotega,Nicaragua,America
+46428,Niamey,Niger,Africa
+46440,Maradi,Niger,Africa
+46452,Zinder,Niger,Africa
+46464,Agadez,Niger,Africa
+46476,Tahoua,Niger,Africa
+46488,Arlit,Niger,Africa
+46500,Birni Nkonni,Niger,Africa
+46512,Tirana,Albania,Europe
+46524,Elbasan,Albania,Europe
+46536,Shkoder,Albania,Europe
+46548,Durres,Albania,Europe
+46560,Vlore,Albania,Europe
+46572,Fier,Albania,Europe
+46584,Korce,Albania,Europe
+46596,Kathmandu,Nepal,Asia
+46608,Lalitpur,Nepal,Asia
+46620,Hetauda,Nepal,Asia
+46632,Pokhara,Nepal,Asia
+46644,Biratnagar,Nepal,Asia
+46656,Birganj,Nepal,Asia
+46668,Dhangarhi,Nepal,Asia
+46680,Nepalganj,Nepal,Asia
+46692,Bhairawa,Nepal,Asia
+46704,Ulaanbaatar,Mongolia,Asia
+46716,Erdenet,Mongolia,Asia
+46728,Darhan,Mongolia,Asia
+46740,Kigali,Rwanda,Africa
+46752,Nyanza,Rwanda,Africa
+46764,Gitarama,Rwanda,Africa
+46776,Ruhengeri,Rwanda,Africa
+46788,Gisenyi,Rwanda,Africa
+46800,Butare,Rwanda,Africa
+46812,Byumba,Rwanda,Africa
+46824,Oslo,Norway,Europe
+46836,Bergen,Norway,Europe
+46848,Stavanger,Norway,Europe
+46860,Trondheim,Norway,Europe
+46872,Bærum,Norway,Europe
+46884,Drammen,Norway,Europe
+46896,Skien,Norway,Europe
+46908,Kristiansand,Norway,Europe
+46920,Tromsø,Norway,Europe
+46932,Bangui,Central African Republic,Africa
+46944,Mbaiki,Central African Republic,Africa
+46956,Bossangoa,Central African Republic,Africa
+46968,Bambari,Central African Republic,Africa
+46980,Berberati,Central African Republic,Africa
+46992,Kaga Bandoro,Central African Republic,Africa
+47004,Freetown,Sierra Leone,Africa
+47016,Bo,Sierra Leone,Africa
+47028,Kenema,Sierra Leone,Africa
+47040,Makeni,Sierra Leone,Africa
+47052,Koidu,Sierra Leone,Africa
+47064,Cotonou,Benin,Africa
+47076,Porto-Novo,Benin,Africa
+47088,Djougou,Benin,Africa
+47100,Parakou,Benin,Africa
+47112,Kandi,Benin,Africa
+47124,Lokossa,Benin,Africa
+47136,Ouidah,Benin,Africa
+47148,Abomey,Benin,Africa
+47160,Natitingou,Benin,Africa
+47172,Nouakchott,Mauritania,Africa
+47184,Nema,Mauritania,Africa
+47196,Nouadhibou,Mauritania,Africa
+47208,Kiffa,Mauritania,Africa
+47220,Zouirat,Mauritania,Africa
+47232,Muscat,Oman,Asia
+47244,As Sib,Oman,Asia
+47256,Salalah,Oman,Asia
+47268,Suhar,Oman,Asia
+47280,Ibri,Oman,Asia
+47292,Nizwa,Oman,Asia
+47304,Zagreb,Croatia,Europe
+47316,Split,Croatia,Europe
+47328,Rijeka,Croatia,Europe
+47340,Slavonski Brod,Croatia,Europe
+47352,Osijek,Croatia,Europe
+47364,Zadar,Croatia,Europe
+47376,Pula,Croatia,Europe
+47388,Karlovac,Croatia,Europe
+47400,Lilongwe,Malawi,Africa
+47412,Blantyre,Malawi,Africa
+47424,Mzuzu,Malawi,Africa
+47436,Mangochi,Malawi,Africa
+47448,Zomba,Malawi,Africa
+47460,Salima,Malawi,Africa
+47472,Nkhotakota,Malawi,Africa
+47484,Asmara,Eritrea,Africa
+47496,Mendefera,Eritrea,Africa
+47508,Keren,Eritrea,Africa
+47520,Massawa,Eritrea,Africa
+47532,Assab,Eritrea,Africa
+47544,Port Louis,Mauritius,Africa
+47556,Curepipe,Mauritius,Africa
+47568,Libreville,Gabon,Africa
+47580,Port-Gentil,Gabon,Africa
+47592,Manama,Bahrain,Asia
+47604,Bissau,Guinea-Bissau,Africa
+47616,Maseru,Lesotho,Africa
+47628,Mafetang,Lesotho,Africa
+47640,Bujumbura,Burundi,Africa
+47652,Muyinga,Burundi,Africa
+47664,Ljubljana,Slovenia,Europe
+47676,Maribor,Slovenia,Europe
+47688,Windhoek,Namibia,Africa
+47700,Rundu,Namibia,Africa
+47712,Walvis Bay,Namibia,Africa
+47724,Jaffna,Sri Lanka,Asia
+47736,Colombo,Sri Lanka,Asia
+47748,Moratuwa,Sri Lanka,Asia
+47760,Batticaloa,Sri Lanka,Asia
+47772,Anuradhapura,Sri Lanka,Asia
+47784,Sri Jawewardenepura Kotte,Sri Lanka,Asia
+47796,Kandy,Sri Lanka,Asia
+47808,Trincomalee,Sri Lanka,Asia
+47820,Kilinochchi,Sri Lanka,Asia
+47832,Galle,Sri Lanka,Asia
+47844,Matara,Sri Lanka,Asia
+47856,Gaborone,Botswana,Africa
+47868,Francistown,Botswana,Africa
+47880,Lobatse,Botswana,Africa
+47892,Molepolole,Botswana,Africa
+47904,Mahalapye,Botswana,Africa
+47916,St.-Denis,Reunion,Africa
+47928,Bata,Equatorial Guinea,Africa
+47940,Malabo,Equatorial Guinea,Africa
+47952,Reykjavik,Iceland,Europe
+47964,Podgorica,Montenegro,Europe
+47976,Moroni,Comoros,Africa
+47988,Manzini,Swaziland,Africa
+48000,Mbabane,Swaziland,Africa
